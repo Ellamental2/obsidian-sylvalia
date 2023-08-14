@@ -6,7 +6,7 @@
       {
         "id": "295e50245f6f9a71",
         "type": "tabs",
-        "dimension": 27.4746192893401,
+        "dimension": 27.474619289340104,
         "children": [
           {
             "id": "957c892f19fe7000",
@@ -25,17 +25,67 @@
       {
         "id": "ff71ba6dbfae3895",
         "type": "tabs",
-        "dimension": 72.5253807106599,
+        "dimension": 36.26269035532995,
         "children": [
           {
             "id": "0ef9a73a402cafc8",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dukes Organisation/Duke.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
-            }
+            },
+            "group": "b46df70e3464c563"
+          }
+        ]
+      },
+      {
+        "id": "090ae1ce9ccf6fe8",
+        "type": "tabs",
+        "dimension": 36.26269035532995,
+        "children": [
+          {
+            "id": "f366c07d01cbe212",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dukes Organisation/Duke.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "b46df70e3464c563"
           }
         ]
       }
@@ -103,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scarface.md",
+                "file": "Dukes Organisation/Duke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scarface.md",
+                "file": "Dukes Organisation/Duke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scarface.md"
+                "file": "Dukes Organisation/Duke.md"
               }
             }
           }
@@ -166,10 +216,11 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "957c892f19fe7000",
+  "active": "f366c07d01cbe212",
   "lastOpenFiles": [
-    "Dukes Organisation/Duke's Organisation.md",
     "Scarface.md",
+    "The Party/Embers.md",
+    "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Coots.md",
     "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
@@ -179,7 +230,6 @@
     "The Party/Zevuv(Dead).md",
     "Untitled.md",
     "The Party/Bishop.md",
-    "The Party/Embers.md",
     "The Party/Pyra.md",
     "The Party/Terayl.md",
     "The Party/Nem.md",
