@@ -1,1 +1,1 @@
-Monster expert working for the [Sabretooth's](Sabretooth's-Guild.md)
+Monster expert working for the [Sabretooth's](Sabretooth's%20Guild.md)

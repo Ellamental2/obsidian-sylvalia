@@ -1,1 +1,1 @@
-Is an associate of the [Sabretooth's](Sabretooth's-Guild.md).
+Is an associate of the [Sabretooth's](Sabretooth's%20Guild.md).

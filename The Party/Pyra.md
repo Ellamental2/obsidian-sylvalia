@@ -1,1 +1,1 @@
-Affiliated with the [Sabretooth's Guild](Sabretooth's-Guild.md)
+Affiliated with the [Sabretooth's Guild](Sabretooth's%20Guild.md)
