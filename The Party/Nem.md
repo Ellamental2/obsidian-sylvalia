@@ -1,0 +1,1 @@
+Is an associate of the [Sabretooth's](Sabretooth's-Guild.md).
