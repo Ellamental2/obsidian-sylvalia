@@ -7,3 +7,5 @@ known members:
 [Maggie](Maggie.md) (May not be directly involved but works the bar.)
 
 Has some link to [[Trenmere]]
+
+#faction

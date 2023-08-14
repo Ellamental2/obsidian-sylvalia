@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasStamp",
+      "LiPartyPopper",
+      "FasCoins",
+      "FasQuestion",
+      "TiMapPin"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,26 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "Guilds/Twilight Pegasus Guild": {
+    "iconName": "FasChessKnight",
+    "inheritanceIcon": "FasChessKnight"
+  },
+  "Guilds/Sabretooth's": {
+    "iconName": "FasTooth",
+    "inheritanceIcon": "FasTooth"
+  },
+  "Dukes Organisation": {
+    "iconName": "RiCriminalFill",
+    "inheritanceIcon": "RiCriminalFill"
+  },
+  "images": "LiImage",
+  "Places": "FasMap",
+  "Places/Kadahn": "TiMapPin",
+  "Places/Kadahn/Kadahn.md": "TiMapPin",
+  "Trenmere.md": "FasQuestion",
+  "The Party/Resources": "FasCoins",
+  "Places/Sylvalia.md": "TiMapPin",
+  "The Party": "LiPartyPopper",
+  "Guilds": "FasStamp"
 }

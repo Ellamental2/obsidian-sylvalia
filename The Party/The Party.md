@@ -8,7 +8,10 @@ Current Members
 [Bishop](Bishop.md)
 [Pyra](Pyra.md)
 [Nem](Nem.md)
-[Embers](Embers)
+[Embers](Embers.md)
 [Terayl](Terayl)
 
-[Party Resources](Party-Resources.md)
+[Party Resources Here](Party-Resources.md)
+
+
+#faction

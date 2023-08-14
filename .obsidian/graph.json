@@ -5,13 +5,34 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:Dead",
+      "color": {
+        "a": 1,
+        "rgb": 4012596
+      }
+    },
     {
       "query": "tag:Party",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 1692694
+      }
+    },
+    {
+      "query": "tag:Guildleader",
+      "color": {
+        "a": 1,
+        "rgb": 12957728
+      }
+    },
+    {
+      "query": "tag:faction",
+      "color": {
+        "a": 1,
+        "rgb": 12091111
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 248,
-  "scale": 0.713275462622448,
-  "close": false
+  "scale": 0.3628873693012158,
+  "close": true
 }

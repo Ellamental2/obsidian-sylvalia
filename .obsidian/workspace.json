@@ -6,6 +6,26 @@
       {
         "id": "295e50245f6f9a71",
         "type": "tabs",
+        "dimension": 27.4746192893401,
+        "children": [
+          {
+            "id": "957c892f19fe7000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Party/The Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ff71ba6dbfae3895",
+        "type": "tabs",
+        "dimension": 72.5253807106599,
         "children": [
           {
             "id": "0ef9a73a402cafc8",
@@ -137,50 +157,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
   "active": "0ef9a73a402cafc8",
   "lastOpenFiles": [
-    "Trenmere.md",
+    "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "Dukes Organisation/Duke's Organisation.md",
+    "Dukes Organisation/Coots.md",
+    "Guilds/Sabretooth's/Edward.md",
+    "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
+    "The Party/Zevuv(Dead).md",
+    "Untitled.md",
     "The Party/Bishop.md",
+    "The Party/Embers.md",
+    "The Party/Pyra.md",
+    "The Party/Terayl.md",
+    "The Party/Nem.md",
+    "The Party/Resources",
+    "MISC",
+    "Trenmere.md",
     "images/Embers.png",
     "images/Duke's Fire.png",
-    "Embers.md",
-    "The Party/The Party.md",
-    "Sylvalia.md",
+    "Places/Sylvalia.md",
     "Places/Kadahn/Kadahn.md",
     "The Party/Wesley the Warhorse.md",
-    "Currency.md",
-    "Dukes Organisation/Coots.md",
-    "Eisheth.md",
-    "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
+    "MISC/Currency.md",
+    "MISC/Eisheth.md",
     "images/Zevuv.png",
-    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "conflict-files-obsidian-git.md",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
     "images/Pasted image 20230814153459.png",
     "images",
-    "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
-    "Flail-of-withering-shadows.md",
-    "The Party/Party-Resources.md",
+    "The Party/Resources/Flail-of-withering-shadows.md",
+    "The Party/Resources/Party-Resources.md",
     "Dukes Organisation/Duke.md",
-    "Guild-Healing-Potions.md",
-    "README.md",
-    "Places/Kadahn/Zazzy.md",
-    "Places/The Gates.md",
-    "Guilds/Twilight Pegasus Guild/Hans.md",
-    "Places/Kadahn/Percy.md",
+    "The Party/Resources/Guild-Healing-Potions.md",
+    "MISC/README.md",
     "Places/Kadahn",
     "Places",
     "Untitled.canvas",
     "Guilds/Twilight Pegasus Guild",
     "Guilds/Sabretooth's",
     "Guilds",
-    "The Party/Terayl.md",
     "The Party",
     "Dukes Organisation"
   ]

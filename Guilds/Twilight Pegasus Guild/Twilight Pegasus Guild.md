@@ -9,3 +9,5 @@ Potions/Alchemist:
 The Twilight Pegasus Guild based in [Sandhall](Sandhall), but are also responsible for [Kadahn](Kadahn.md) are interested in treasure hunting. They are not averse to grave robbing.
 
 Has some link to [[Trenmere]]
+
+#faction

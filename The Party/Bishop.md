@@ -2,3 +2,5 @@
 
 A paladin 
 has an ethereal steed called [[Wesley the Warhorse]]
+
+#Party
