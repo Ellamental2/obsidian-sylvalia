@@ -25,7 +25,7 @@
       "query": "tag:Guildleader",
       "color": {
         "a": 1,
-        "rgb": 12957728
+        "rgb": 9448492
       }
     },
     {
@@ -43,6 +43,13 @@
       }
     },
     {
+      "query": "tag: CurrentQuest",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
       "query": "tag: quests",
       "color": {
         "a": 1,
@@ -55,11 +62,11 @@
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1.52916666666667,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 248,
   "scale": 0.7132754626224529,
-  "close": true
+  "close": false
 }

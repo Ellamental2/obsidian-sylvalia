@@ -1,4 +1,4 @@
-#quests
+#quests #CurrentQuest
 
 The xorn escaped from [[Riley's Operation]] while [[The Party]] attacked them.
 it has since been terrorising [[Kadahn]]
