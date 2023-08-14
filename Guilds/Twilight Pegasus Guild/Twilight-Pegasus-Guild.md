@@ -1,4 +1,4 @@
-Leader [Horbit Hasbin](Horbit-Hasbin.md)
+Leader [Horbit Hasbin](Horbit%20Hasbin.md)
 
 Secretaries:
 [Hazel](Hazel.md) and [Maggie](Maggie.md)

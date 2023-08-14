@@ -1,0 +1,1 @@
+Looks like a warhorse, but is actually a fiend with an intelligence score of 6
