@@ -6,15 +6,15 @@
       {
         "id": "295e50245f6f9a71",
         "type": "tabs",
-        "dimension": 27.474619289340104,
+        "dimension": 36.421319796954315,
         "children": [
           {
-            "id": "957c892f19fe7000",
+            "id": "b73990366e5aeb52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scarface.md",
+                "file": "Dukes Organisation/Duke.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,69 +23,19 @@
         ]
       },
       {
-        "id": "ff71ba6dbfae3895",
+        "id": "b33b2118bfa822da",
         "type": "tabs",
-        "dimension": 36.26269035532995,
+        "dimension": 63.57868020304569,
         "children": [
           {
-            "id": "0ef9a73a402cafc8",
+            "id": "957c892f19fe7000",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dukes Organisation/Duke.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
-            },
-            "group": "b46df70e3464c563"
-          }
-        ]
-      },
-      {
-        "id": "090ae1ce9ccf6fe8",
-        "type": "tabs",
-        "dimension": 36.26269035532995,
-        "children": [
-          {
-            "id": "f366c07d01cbe212",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Dukes Organisation/Duke.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": true
-                }
-              },
-              "pinned": true
-            },
-            "group": "b46df70e3464c563"
+            }
           }
         ]
       }
@@ -153,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dukes Organisation/Duke.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -216,8 +162,9 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "f366c07d01cbe212",
+  "active": "957c892f19fe7000",
   "lastOpenFiles": [
+    "Dukes Organisation/Duke.md",
     "Scarface.md",
     "The Party/Embers.md",
     "Dukes Organisation/Duke's Organisation.md",
@@ -251,7 +198,6 @@
     "images",
     "The Party/Resources/Flail-of-withering-shadows.md",
     "The Party/Resources/Party-Resources.md",
-    "Dukes Organisation/Duke.md",
     "The Party/Resources/Guild-Healing-Potions.md",
     "Places/Kadahn",
     "Places",
