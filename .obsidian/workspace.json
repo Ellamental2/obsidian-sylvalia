@@ -6,17 +6,8 @@
       {
         "id": "b33b2118bfa822da",
         "type": "tabs",
+        "dimension": 63.3248730964467,
         "children": [
-          {
-            "id": "957c892f19fe7000",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "3bcd876b299d214e",
             "type": "leaf",
@@ -40,9 +31,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed0308ede0108086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mysterious Compass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "e951aaa98a15e5ab",
+        "type": "tabs",
+        "dimension": 36.6751269035533,
+        "children": [
+          {
+            "id": "957c892f19fe7000",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloodstone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloodstone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bloodstone.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,8 +187,9 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "601b162a1fbb828a",
+  "active": "957c892f19fe7000",
   "lastOpenFiles": [
+    "Mysterious Compass.md",
     "The Party/Resources/Party-Resources.md",
     "Bloodstone.md",
     "Mithril Chainshirt.md",
@@ -202,7 +219,6 @@
     "Places/Sylvalia.md",
     "Places/Kadahn/Kadahn.md",
     "The Party/Wesley the Warhorse.md",
-    "MISC/Currency.md",
     "images/Zevuv.png",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",

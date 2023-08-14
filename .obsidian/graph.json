@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 12091111
       }
+    },
+    {
+      "query": "tag: secret",
+      "color": {
+        "a": 1,
+        "rgb": 14720594
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 248,
-  "scale": 0.7132754626224517,
+  "scale": 1.0000000000000144,
   "close": true
 }
