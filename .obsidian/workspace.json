@@ -9,18 +9,6 @@
         "dimension": 63.3248730964467,
         "children": [
           {
-            "id": "3bcd876b299d214e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mithril Chainshirt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "601b162a1fbb828a",
             "type": "leaf",
             "state": {
@@ -60,8 +48,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "995dcd0fc11123a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Xorn..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Xorn..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Xorn..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Xorn..md"
+              }
             }
           }
         ]
@@ -187,8 +191,9 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "957c892f19fe7000",
+  "active": "995dcd0fc11123a5",
   "lastOpenFiles": [
+    "The Xorn..md",
     "Mysterious Compass.md",
     "The Party/Resources/Party-Resources.md",
     "Bloodstone.md",
@@ -206,7 +211,6 @@
     "Guilds/Sabretooth's/Edward.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "The Party/Zevuv(Dead).md",
-    "Untitled.md",
     "The Party/Bishop.md",
     "The Party/Pyra.md",
     "The Party/Terayl.md",
