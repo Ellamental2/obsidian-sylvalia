@@ -1,0 +1,1 @@
+Uncommon Flail, Requires attunement. Currently h

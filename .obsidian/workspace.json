@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party-Resources.md",
+                "file": "Flail-of-withering-shadows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party-Resources.md",
+                "file": "Flail-of-withering-shadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party-Resources.md",
+                "file": "Flail-of-withering-shadows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party-Resources.md"
+                "file": "Flail-of-withering-shadows.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "b0b3da75da028de8",
   "lastOpenFiles": [
+    "Party-Resources.md",
+    "Flail-of-withering-shadows.md",
     "Dukes Organisation/Duke.md",
     "The Party/The Party.md",
     "Guild-Healing-Potions.md",
-    "Party-Resources.md",
     "README.md",
     "Guilds/Twilight Pegasus Guild/Horbit-Hasbin.md",
     "Guilds/Twilight Pegasus Guild/Twilight-Pegasus-Guild.md",
@@ -180,7 +181,6 @@
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dukes Organisation/Maggie.md",
     "Duke's-Operation.md",
-    "Dukes Organisation/Coots.md",
-    "Duke's.md"
+    "Dukes Organisation/Coots.md"
   ]
 }
