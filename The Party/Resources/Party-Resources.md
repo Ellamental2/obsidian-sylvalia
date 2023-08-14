@@ -5,3 +5,4 @@ Magical Loot:
 [[Flail of Withering Shadows]]
 [[Mysterious Compass]]
 [[Mithril Chainshirt]]
+[[Bloodstone]]

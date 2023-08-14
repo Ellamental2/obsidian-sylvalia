@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "601b162a1fbb828a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloodstone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mithril Chainshirt.md",
+                "file": "Bloodstone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mithril Chainshirt.md",
+                "file": "Bloodstone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mithril Chainshirt.md"
+                "file": "Bloodstone.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "3bcd876b299d214e",
+  "active": "601b162a1fbb828a",
   "lastOpenFiles": [
     "The Party/Resources/Party-Resources.md",
+    "Bloodstone.md",
     "Mithril Chainshirt.md",
     "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Flail of Withering Shadows.md",
@@ -190,7 +203,6 @@
     "Places/Kadahn/Kadahn.md",
     "The Party/Wesley the Warhorse.md",
     "MISC/Currency.md",
-    "MISC/Eisheth.md",
     "images/Zevuv.png",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
