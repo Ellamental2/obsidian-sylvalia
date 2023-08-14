@@ -10,3 +10,5 @@ Current Members
 [Nem](Nem.md)
 [Embers](Embers)
 [Terayl](Terayl)
+
+[Party Resources](Party-Resources)

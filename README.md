@@ -1,0 +1,1 @@
+This repository contains notes from a private D&D game. there is no personal information included and any characters or place described are purely fictional.

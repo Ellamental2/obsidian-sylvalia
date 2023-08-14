@@ -1,4 +1,4 @@
-Criminal operation working out of both [Sandhall](Sandhall) and [Kadarn](Kadarn) working behind the Cobbled Hobbler in [Sandhall](Sandhall)
+Criminal operation working out of both [Sandhall](Sandhall) and [Kadarn](Kadarn.md) working behind the Cobbled Hobbler in [Sandhall](Sandhall)
 
 known members:
 [Duke](Duke.md)
