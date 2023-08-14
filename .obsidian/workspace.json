@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sylvalia.md",
+                "file": "Embers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylvalia.md",
+                "file": "Embers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylvalia.md",
+                "file": "Embers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylvalia.md"
+                "file": "Embers.md"
               }
             }
           }
@@ -160,8 +160,12 @@
   },
   "active": "59d279b161ecfe71",
   "lastOpenFiles": [
-    "The Party/Bishop.md",
+    "Pasted image 20230814161058.png",
+    "The Party/The Party.md",
+    "Embers.md",
     "Sylvalia.md",
+    "Places/Kadahn/Kadahn.md",
+    "The Party/Bishop.md",
     "The Party/Wesley the Warhorse.md",
     "Currency.md",
     "Dukes Organisation/Coots.md",
@@ -169,7 +173,6 @@
     "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
     "images/Zevuv.png",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
-    "The Party/The Party.md",
     "conflict-files-obsidian-git.md",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
@@ -183,12 +186,11 @@
     "Dukes Organisation/Duke.md",
     "Guild-Healing-Potions.md",
     "README.md",
-    "Places/Kadarn/Kadarn.md",
-    "Places/Kadarn/Zazzy.md",
+    "Places/Kadahn/Zazzy.md",
     "Places/The Gates.md",
     "Guilds/Twilight Pegasus Guild/Hans.md",
-    "Places/Kadarn/Percy.md",
-    "Places/Kadarn",
+    "Places/Kadahn/Percy.md",
+    "Places/Kadahn",
     "Places",
     "Untitled.canvas",
     "Guilds/Twilight Pegasus Guild",
@@ -196,8 +198,6 @@
     "Guilds",
     "The Party/Terayl.md",
     "The Party",
-    "Dukes Organisation",
-    "Dukes Organisation/Slim.md",
-    "Guilds/Sabretooth's/Denzel.md"
+    "Dukes Organisation"
   ]
 }
