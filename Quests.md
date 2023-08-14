@@ -1,7 +1,7 @@
 #quests 
 
 Current:
-[[The Xorn.]]
+[[The Xorn]]
 
 Completed:
 [[The Standing Stone]]

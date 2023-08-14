@@ -6,7 +6,7 @@
       {
         "id": "b33b2118bfa822da",
         "type": "tabs",
-        "dimension": 30.01269035532995,
+        "dimension": 14.457831325301203,
         "children": [
           {
             "id": "601b162a1fbb828a",
@@ -50,17 +50,82 @@
       {
         "id": "e951aaa98a15e5ab",
         "type": "tabs",
-        "dimension": 69.98730964467005,
+        "dimension": 25.681674064679772,
         "children": [
           {
             "id": "957c892f19fe7000",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Party/The Party.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
-            }
+            },
+            "group": "e1965fe564dc0b7b"
+          }
+        ]
+      },
+      {
+        "id": "6d00a585a663a480",
+        "type": "tabs",
+        "dimension": 59.860494610019025,
+        "children": [
+          {
+            "id": "5d30f3aafb2097eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "The Party/The Party.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Dead",
+                      "color": {
+                        "a": 1,
+                        "rgb": 197378
+                      }
+                    },
+                    {
+                      "query": "tag:#Party",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6618980
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622443,
+                  "close": true
+                }
+              },
+              "pinned": true
+            },
+            "group": "e1965fe564dc0b7b"
           }
         ]
       }
@@ -128,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests.md"
+              }
             }
           }
         ]
@@ -187,10 +256,10 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "957c892f19fe7000",
+  "active": "995dcd0fc11123a5",
   "lastOpenFiles": [
-    "Quests.md",
     "The Party/The Party.md",
+    "Quests.md",
     "Riley's Operation.md",
     "Bloodstone.md",
     "Dukes Organisation/Duke.md",
