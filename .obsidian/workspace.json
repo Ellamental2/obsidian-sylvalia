@@ -10,13 +10,11 @@
           {
             "id": "0ef9a73a402cafc8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +142,8 @@
   },
   "active": "0ef9a73a402cafc8",
   "lastOpenFiles": [
+    "Trenmere.md",
+    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Dukes Organisation/Duke's Organisation.md",
     "The Party/Bishop.md",
     "images/Embers.png",
@@ -168,7 +164,6 @@
     "images/Pasted image 20230814153708.png",
     "images/Pasted image 20230814153459.png",
     "images",
-    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Flail-of-withering-shadows.md",
     "The Party/Party-Resources.md",
