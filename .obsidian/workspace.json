@@ -11,10 +11,8 @@
             "id": "0caa8ea3ed9a240c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Zevuv.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Zevuv.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Zevuv.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "images/Zevuv.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,12 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0d6f3926f21d91e",
+  "active": "0caa8ea3ed9a240c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "images/Zevuv.png",
     "images/Bishop.png",
+    "images/Pasted image 20230814153708.png",
+    "images/Pasted image 20230814153459.png",
     "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
     "images",
-    "images/Zevuv.png",
     "The Party/The Party.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
