@@ -9,7 +9,8 @@
       "id": "obsidian-git:commit",
       "icon": "git-commit",
       "name": "Obsidian Git: Commit all changes",
-      "mode": "any"
+      "mode": "any",
+      "color": "#ff0000"
     }
   ],
   "rightRibbon": [],
