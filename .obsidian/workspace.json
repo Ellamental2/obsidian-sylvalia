@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Coots.md",
+                "file": "Scarface.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Coots.md",
+                "file": "Scarface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Coots.md",
+                "file": "Scarface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Coots.md"
+                "file": "Scarface.md"
               }
             }
           }
@@ -168,11 +168,12 @@
   },
   "active": "957c892f19fe7000",
   "lastOpenFiles": [
+    "Dukes Organisation/Duke's Organisation.md",
+    "Scarface.md",
+    "Dukes Organisation/Coots.md",
     "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
-    "Dukes Organisation/Duke's Organisation.md",
-    "Dukes Organisation/Coots.md",
     "Guilds/Sabretooth's/Edward.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "The Party/Zevuv(Dead).md",
@@ -202,7 +203,6 @@
     "The Party/Resources/Party-Resources.md",
     "Dukes Organisation/Duke.md",
     "The Party/Resources/Guild-Healing-Potions.md",
-    "README.md",
     "Places/Kadahn",
     "Places",
     "Untitled.canvas",

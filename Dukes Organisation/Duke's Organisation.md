@@ -5,6 +5,7 @@ known members:
 [Coots](Coots.md)
 [Slim](Slim.md)
 [Maggie](Maggie.md) (May not be directly involved but works the bar.)
+[[Scarface]]
 
 Has some link to [[Trenmere]]
 
