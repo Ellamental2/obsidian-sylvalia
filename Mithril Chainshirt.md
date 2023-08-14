@@ -1,0 +1,1 @@
+*Armour (chain shirt), uncommon*

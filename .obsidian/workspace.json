@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "295e50245f6f9a71",
-        "type": "tabs",
-        "dimension": 36.421319796954315,
-        "children": [
-          {
-            "id": "b73990366e5aeb52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Party/Resources/Party-Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b33b2118bfa822da",
         "type": "tabs",
-        "dimension": 63.57868020304569,
         "children": [
           {
             "id": "957c892f19fe7000",
@@ -36,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "3bcd876b299d214e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mithril Chainshirt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Resources/Party-Resources.md",
+                "file": "Mithril Chainshirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Resources/Party-Resources.md",
+                "file": "Mithril Chainshirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Resources/Party-Resources.md"
+                "file": "Mithril Chainshirt.md"
               }
             }
           }
@@ -166,10 +159,14 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "b73990366e5aeb52",
+  "active": "3bcd876b299d214e",
   "lastOpenFiles": [
+    "The Party/Resources/Party-Resources.md",
+    "Mithril Chainshirt.md",
+    "The Party/Resources/Guild Healing Potions.md",
+    "The Party/Resources/Flail of Withering Shadows.md",
     "Dukes Organisation/Duke.md",
-    "Scarface.md",
+    "Dukes Organisation/Scarface.md",
     "The Party/Embers.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Coots.md",
@@ -195,14 +192,10 @@
     "MISC/Currency.md",
     "MISC/Eisheth.md",
     "images/Zevuv.png",
-    "conflict-files-obsidian-git.md",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
     "images/Pasted image 20230814153459.png",
     "images",
-    "The Party/Resources/Flail-of-withering-shadows.md",
-    "The Party/Resources/Party-Resources.md",
-    "The Party/Resources/Guild-Healing-Potions.md",
     "Places/Kadahn",
     "Places",
     "Untitled.canvas",
