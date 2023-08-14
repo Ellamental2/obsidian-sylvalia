@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riley's Operation.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Riley's Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Riley's Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Riley's Operation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,8 +187,9 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "995dcd0fc11123a5",
+  "active": "957c892f19fe7000",
   "lastOpenFiles": [
+    "Dukes Organisation/Maggie.md",
     "Riley's Operation.md",
     "The Party/Resources/Guild Healing Potions.md",
     "The Xorn..md",
@@ -222,7 +219,6 @@
     "images/Embers.png",
     "images/Duke's Fire.png",
     "Places/Sylvalia.md",
-    "Places/Kadahn/Kadahn.md",
     "images/Zevuv.png",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
