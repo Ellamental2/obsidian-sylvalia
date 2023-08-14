@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59d279b161ecfe71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sylvalia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Sylvalia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Sylvalia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Bishop.md"
+                "file": "Sylvalia.md"
               }
             }
           }
@@ -145,15 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "538da6076bebeeff",
+  "active": "59d279b161ecfe71",
   "lastOpenFiles": [
+    "The Party/Bishop.md",
+    "Sylvalia.md",
     "The Party/Wesley the Warhorse.md",
     "Currency.md",
     "Dukes Organisation/Coots.md",
     "Eisheth.md",
     "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
     "images/Zevuv.png",
-    "The Party/Bishop.md",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "The Party/The Party.md",
     "conflict-files-obsidian-git.md",
@@ -184,7 +198,6 @@
     "The Party",
     "Dukes Organisation",
     "Dukes Organisation/Slim.md",
-    "Guilds/Sabretooth's/Denzel.md",
-    "The Party/Nem.md"
+    "Guilds/Sabretooth's/Denzel.md"
   ]
 }
