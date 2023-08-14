@@ -1,1 +1,1 @@
-![[Pasted image 20230814161058.png]]
+![[Embers.png]]

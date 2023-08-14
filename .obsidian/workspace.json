@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc63657bca58f17",
+        "id": "295e50245f6f9a71",
         "type": "tabs",
         "children": [
           {
-            "id": "538da6076bebeeff",
+            "id": "0ef9a73a402cafc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/Bishop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59d279b161ecfe71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embers.md",
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embers.md",
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embers.md",
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embers.md"
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md"
               }
             }
           }
@@ -146,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59d279b161ecfe71",
+  "active": "0ef9a73a402cafc8",
   "lastOpenFiles": [
-    "Pasted image 20230814161058.png",
-    "The Party/The Party.md",
+    "Dukes Organisation/Duke's Organisation.md",
+    "The Party/Bishop.md",
+    "images/Embers.png",
+    "images/Duke's Fire.png",
     "Embers.md",
+    "The Party/The Party.md",
     "Sylvalia.md",
     "Places/Kadahn/Kadahn.md",
-    "The Party/Bishop.md",
     "The Party/Wesley the Warhorse.md",
     "Currency.md",
     "Dukes Organisation/Coots.md",
@@ -178,7 +168,6 @@
     "images/Pasted image 20230814153708.png",
     "images/Pasted image 20230814153459.png",
     "images",
-    "Dukes Organisation/Duke's Organisation.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Flail-of-withering-shadows.md",
