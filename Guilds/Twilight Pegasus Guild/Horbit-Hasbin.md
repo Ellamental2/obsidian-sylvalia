@@ -1,0 +1,1 @@
+Leader of the [Twilight Pegasus Guild](Twilight-Pegasus-Guild.md), powerful spellcasting Gnome.

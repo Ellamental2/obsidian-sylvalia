@@ -1,0 +1,1 @@
+Monster expert working for the [Sabretooth's](Sabretooth's-Guild.md)

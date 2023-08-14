@@ -1,0 +1,1 @@
+A warlock who used to be with the party and was killed by some petty criminals
