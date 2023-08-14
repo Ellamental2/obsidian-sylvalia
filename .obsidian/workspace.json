@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "85fe65687acdb0ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b0b3da75da028de8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Party/Bishop.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "a5de5f2ac4c52f0b",
         "type": "tabs",
         "children": [
@@ -33,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guilds/Sabretooth's/Sabretooth's Guild.md",
+                "file": "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Bishop.md"
+                "file": "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md"
               }
             }
           }
@@ -166,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0b3da75da028de8",
+  "active": "fe1b5428dbf8ed43",
   "lastOpenFiles": [
-    "Guilds/Sabretooth's/Sabretooth's Guild.md",
+    "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
+    "images/Zevuv.png",
     "The Party/Bishop.md",
+    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "The Party/The Party.md",
     "conflict-files-obsidian-git.md",
-    "images/Zevuv.png",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
     "images/Pasted image 20230814153459.png",
-    "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
     "images",
     "Dukes Organisation/Duke's Organisation.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
@@ -205,7 +185,6 @@
     "Guilds/Sabretooth's/Denzel.md",
     "The Party/Nem.md",
     "Guilds/Sabretooth's/Edward.md",
-    "The Party/Pyra.md",
-    "Guilds/Twilight Pegasus Guild/Hazel.md"
+    "The Party/Pyra.md"
   ]
 }
