@@ -19,8 +19,7 @@
                 "source": false
               },
               "pinned": true
-            },
-            "group": "ed2de0b9e2164ab0"
+            }
           }
         ]
       },
@@ -31,50 +30,14 @@
           {
             "id": "fe1b5428dbf8ed43",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "4a7b75453e77abe3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "The Party/Bishop.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "pinned": true
-            },
-            "group": "ed2de0b9e2164ab0"
+                "file": "Guilds/Sabretooth's/Sabretooth's Guild.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -142,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party/Bishop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party/Bishop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party/Bishop.md"
+              }
             }
           }
         ]
@@ -199,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe1b5428dbf8ed43",
+  "active": "b0b3da75da028de8",
   "lastOpenFiles": [
-    "The Party/The Party.md",
+    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "The Party/Bishop.md",
+    "The Party/The Party.md",
     "conflict-files-obsidian-git.md",
     "images/Zevuv.png",
     "images/Bishop.png",
@@ -211,7 +179,6 @@
     "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
     "images",
     "Dukes Organisation/Duke's Organisation.md",
-    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Wesley the Warhorse.md",
