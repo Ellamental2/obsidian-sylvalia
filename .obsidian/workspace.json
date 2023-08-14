@@ -31,8 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "995dcd0fc11123a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Xorn..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e951aaa98a15e5ab",
@@ -48,21 +61,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "995dcd0fc11123a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Xorn..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
