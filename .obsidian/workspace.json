@@ -6,7 +6,7 @@
       {
         "id": "b33b2118bfa822da",
         "type": "tabs",
-        "dimension": 63.3248730964467,
+        "dimension": 30.01269035532995,
         "children": [
           {
             "id": "601b162a1fbb828a",
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Xorn..md",
+                "file": "Riley's Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
       {
         "id": "e951aaa98a15e5ab",
         "type": "tabs",
-        "dimension": 36.6751269035533,
+        "dimension": 69.98730964467005,
         "children": [
           {
             "id": "957c892f19fe7000",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Xorn..md",
+                "file": "Riley's Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Xorn..md",
+                "file": "Riley's Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Xorn..md"
+                "file": "Riley's Operation.md"
               }
             }
           }
@@ -193,12 +193,13 @@
   },
   "active": "995dcd0fc11123a5",
   "lastOpenFiles": [
+    "Riley's Operation.md",
+    "The Party/Resources/Guild Healing Potions.md",
     "The Xorn..md",
     "Mysterious Compass.md",
     "The Party/Resources/Party-Resources.md",
     "Bloodstone.md",
     "Mithril Chainshirt.md",
-    "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Flail of Withering Shadows.md",
     "Dukes Organisation/Duke.md",
     "Dukes Organisation/Scarface.md",
@@ -222,7 +223,6 @@
     "images/Duke's Fire.png",
     "Places/Sylvalia.md",
     "Places/Kadahn/Kadahn.md",
-    "The Party/Wesley the Warhorse.md",
     "images/Zevuv.png",
     "images/Bishop.png",
     "images/Pasted image 20230814153708.png",
