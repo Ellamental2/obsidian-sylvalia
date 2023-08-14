@@ -1,14 +1,14 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "obsidian-git:commit",
+      "id": "obsidian-git:commit-specified-message",
       "icon": "git-commit",
-      "name": "Obsidian Git: Commit all changes",
+      "name": "Obsidian Git: Commit all changes with specific message",
       "mode": "any",
       "color": "#ff0000"
     }
