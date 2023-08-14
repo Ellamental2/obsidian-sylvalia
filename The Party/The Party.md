@@ -11,6 +11,7 @@ Current Members
 [Embers](Embers.md)
 [Terayl](Terayl)
 
+[[Quests]]
 [Party Resources Here](Party-Resources.md)
 
 

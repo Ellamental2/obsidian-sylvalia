@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Quests.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,13 +189,14 @@
   },
   "active": "957c892f19fe7000",
   "lastOpenFiles": [
+    "Quests.md",
     "The Party/The Party.md",
+    "Riley's Operation.md",
     "Bloodstone.md",
     "Dukes Organisation/Duke.md",
     "The Xorn..md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dukes Organisation/Maggie.md",
-    "Riley's Operation.md",
     "The Party/Resources/Guild Healing Potions.md",
     "Mysterious Compass.md",
     "The Party/Resources/Party-Resources.md",
@@ -216,7 +217,6 @@
     "The Party/Nem.md",
     "The Party/Resources",
     "MISC",
-    "Trenmere.md",
     "images/Embers.png",
     "images/Duke's Fire.png",
     "images/Zevuv.png",
