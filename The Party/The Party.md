@@ -11,4 +11,4 @@ Current Members
 [Embers](Embers)
 [Terayl](Terayl)
 
-[Party Resources](Party-Resources)
+[Party Resources](Party-Resources.md)

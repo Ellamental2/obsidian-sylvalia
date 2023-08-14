@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a5de5f2ac4c52f0b",
+        "id": "0bc63657bca58f17",
         "type": "tabs",
         "children": [
           {
-            "id": "fe1b5428dbf8ed43",
+            "id": "538da6076bebeeff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Party/Bishop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party/Bishop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party/Bishop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party/Bishop.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe1b5428dbf8ed43",
+  "active": "538da6076bebeeff",
   "lastOpenFiles": [
+    "The Party/Wesley the Warhorse.md",
+    "Currency.md",
+    "Dukes Organisation/Coots.md",
     "Eisheth.md",
     "Guilds/Twilight Pegasus Guild/Zevuv(Dead).md",
     "images/Zevuv.png",
@@ -154,9 +164,8 @@
     "Dukes Organisation/Duke's Organisation.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
-    "Wesley the Warhorse.md",
     "Flail-of-withering-shadows.md",
-    "Party-Resources.md",
+    "The Party/Party-Resources.md",
     "Dukes Organisation/Duke.md",
     "Guild-Healing-Potions.md",
     "README.md",
@@ -176,8 +185,6 @@
     "Dukes Organisation",
     "Dukes Organisation/Slim.md",
     "Guilds/Sabretooth's/Denzel.md",
-    "The Party/Nem.md",
-    "Guilds/Sabretooth's/Edward.md",
-    "The Party/Pyra.md"
+    "The Party/Nem.md"
   ]
 }

@@ -1,0 +1,1 @@
+100 silver = 1 gold
