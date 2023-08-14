@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Dukes Organisation/Coots.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dukes Organisation/Coots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dukes Organisation/Coots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dukes Organisation/Coots.md"
+              }
             }
           }
         ]
@@ -162,7 +166,7 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "0ef9a73a402cafc8",
+  "active": "957c892f19fe7000",
   "lastOpenFiles": [
     "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
@@ -198,7 +202,7 @@
     "The Party/Resources/Party-Resources.md",
     "Dukes Organisation/Duke.md",
     "The Party/Resources/Guild-Healing-Potions.md",
-    "MISC/README.md",
+    "README.md",
     "Places/Kadahn",
     "Places",
     "Untitled.canvas",
