@@ -1,4 +1,4 @@
-Uncommon Flail, Requires attunement. Currently held by [Bishop](Bishop)
+Uncommon Flail, Requires attunement. Currently held by [Bishop](Bishop.md)
 
 **Damage** 1d8 + 1 Bludgeoning
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bishop.md",
+                "file": "The Party/Bishop.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bishop.md",
+                "file": "The Party/Bishop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bishop.md",
+                "file": "The Party/Bishop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bishop.md"
+                "file": "The Party/Bishop.md"
               }
             }
           }
@@ -162,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0caa8ea3ed9a240c",
+  "active": "d0d6f3926f21d91e",
   "lastOpenFiles": [
+    "Pasted image 20230814153459.png",
     "Flail-of-withering-shadows.md",
-    "Bishop.md",
+    "The Party/Bishop.md",
     "Party-Resources.md",
     "Dukes Organisation/Duke.md",
     "The Party/The Party.md",
@@ -196,7 +197,6 @@
     "Guilds/Sabretooth's/Edward.md",
     "The Party/Pyra.md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
-    "Dukes Organisation/Maggie.md",
-    "Duke's-Operation.md"
+    "Dukes Organisation/Maggie.md"
   ]
 }

@@ -5,7 +5,7 @@ Ex-Members:
 [Zevuv(Dead)](Zevuv(Dead).md)
 
 Current Members
-[Bishop](Bishop)
+[Bishop](Bishop.md)
 [Pyra](Pyra.md)
 [Nem](Nem.md)
 [Embers](Embers)
