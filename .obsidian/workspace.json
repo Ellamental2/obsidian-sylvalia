@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
+                "file": "The Party/Resources/Party-Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party/Resources/Party-Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party/Resources/Party-Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party/Resources/Party-Resources.md"
+              }
             }
           }
         ]
@@ -162,7 +166,7 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "957c892f19fe7000",
+  "active": "b73990366e5aeb52",
   "lastOpenFiles": [
     "Dukes Organisation/Duke.md",
     "Scarface.md",
