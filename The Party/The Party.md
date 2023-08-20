@@ -10,6 +10,7 @@ Current Members
 [Nem](Nem.md)
 [Embers](Embers.md)
 [Terayl](Terayl)
+[[Nigel]]
 
 [[Quests]]
 [Party Resources Here](Party-Resources.md)

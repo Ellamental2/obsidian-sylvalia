@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "The Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "The Party/The Party.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "The Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "The Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kadahn Crusaders.md"
+                "file": "The Party/The Party.md"
               }
             }
           }
@@ -264,8 +264,8 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "Quests/The Xorn.md",
     "Kadahn Crusaders.md",
+    "Quests/The Xorn.md",
     "Doran.md",
     "Doran the Barbarian.md",
     "Places/Kadahn/Kadahn.md",
