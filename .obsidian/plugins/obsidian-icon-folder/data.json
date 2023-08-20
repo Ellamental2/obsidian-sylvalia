@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCompassFill",
+      "FasShirt",
+      "IbCircle",
       "FasStamp",
-      "LiPartyPopper",
-      "FasCoins",
-      "FasQuestion",
-      "TiMapPin"
+      "LiPartyPopper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,8 @@
   "The Party/Resources": "FasCoins",
   "Places/Sylvalia.md": "TiMapPin",
   "The Party": "LiPartyPopper",
-  "Guilds": "FasStamp"
+  "Guilds": "FasStamp",
+  "The Party/Resources/Loot/Bloodstone.md": "IbCircle",
+  "The Party/Resources/Loot/Mithril Chainshirt.md": "FasShirt",
+  "The Party/Resources/Loot/Mysterious Compass.md": "RiCompassFill"
 }
