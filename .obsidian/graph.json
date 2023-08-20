@@ -15,7 +15,14 @@
       }
     },
     {
-      "query": "fodlery",
+      "query": "path:\"The Party/Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 7302994
+      }
+    },
+    {
+      "query": "path:\"The Party\"",
       "color": {
         "a": 1,
         "rgb": 1692694
@@ -68,5 +75,5 @@
   "linkStrength": 0.463541666666667,
   "linkDistance": 265,
   "scale": 0.5087618855792689,
-  "close": false
+  "close": true
 }

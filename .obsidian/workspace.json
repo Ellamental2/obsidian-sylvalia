@@ -11,8 +11,12 @@
             "id": "995dcd0fc11123a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Party/Terayl.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "a32defd282459336"
           }
@@ -28,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/Resources/Loot/Flail of Withering Shadows.md",
+                "file": "The Party/Terayl.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party/Terayl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party/Terayl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party/Terayl.md"
+              }
             }
           }
         ]
@@ -185,6 +193,10 @@
   },
   "active": "995dcd0fc11123a5",
   "lastOpenFiles": [
+    "The Party/Pyra.md",
+    "The Party/Nem.md",
+    "The Party/Embers.md",
+    "The Party/Bishop.md",
     "The Party/Resources/Loot/Flail of Withering Shadows.md",
     "The Party/Resources/Loot/Mithril Chainshirt.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
@@ -202,15 +214,12 @@
     "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Party-Resources.md",
     "Dukes Organisation/Scarface.md",
-    "The Party/Embers.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Coots.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "Guilds/Sabretooth's/Edward.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
-    "The Party/Zevuv(Dead).md",
-    "The Party/Bishop.md",
     "The Party/Resources",
     "MISC",
     "images/Embers.png",
