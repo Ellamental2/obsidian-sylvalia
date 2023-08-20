@@ -9,4 +9,6 @@ it has since been terrorising [[Kadahn]]
 
 When we arrived in Kadahn, the [[Kadahn Crusaders]] appeared apparently wanting to kill The Xorn. during the fight the Crusaders were hit by a fireball aimed at The Xorn, and ran away. We accidentally knocked out the Xorn and it sank into the ground.
 
-During the break in the fighting [[Pyra]] stole some leather scraps, and P
+During the break in the fighting [[Pyra]] stole some leather scraps, and Bishop broke into town hall and stole a key to the records room, and a [[Dosier on the Twilight Pegasus Guild]]
+
+We noticed that the Xorn was popping up and down in the same place keeping an eye on us. So we moved the cage to that spot
