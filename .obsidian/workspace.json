@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Quests/The Xorn.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Quests/The Xorn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224441,
+                  "scale": 0.5087618855792602,
                   "close": true
                 }
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Quests/The Xorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Quests/The Xorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/The Party.md"
+                "file": "Quests/The Xorn.md"
               }
             }
           }
@@ -264,13 +264,14 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Quests/Quests.md",
+    "The Party/The Party.md",
     "Kadahn Crusaders.md",
     "Quests/The Xorn.md",
     "Doran.md",
     "Doran the Barbarian.md",
     "Places/Kadahn/Kadahn.md",
     "The Party/Terayl.md",
-    "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People",
     "People/Riley.md",
@@ -278,7 +279,6 @@
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "The Party/Bishop.md",
     "Quests/Riley's Operation.md",
-    "Quests/Quests.md",
     "Quests",
     "The Party/Pyra.md",
     "The Party/Nem.md",
