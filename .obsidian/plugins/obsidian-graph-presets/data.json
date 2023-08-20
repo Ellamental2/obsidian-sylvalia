@@ -1,0 +1,19 @@
+{
+  "version": "0.8.0",
+  "data": {
+    "presets": {}
+  },
+  "preferences": {
+    "sortBy": "presetNameAsc",
+    "presetsFolder": "graph presets",
+    "markdownPresets": {
+      "inlineSearchQuery": false,
+      "inlineColorGroups": false
+    },
+    "enablePresetCommands": false,
+    "restoreZoom": true,
+    "restoreCollapsedState": false,
+    "globalFilter": "",
+    "disableAutoBindToLocalGraph": false
+  }
+}
