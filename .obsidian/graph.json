@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:Party",
+      "query": "fodlery",
       "color": {
         "a": 1,
         "rgb": 1692694
@@ -68,5 +68,5 @@
   "linkStrength": 0.463541666666667,
   "linkDistance": 265,
   "scale": 0.5087618855792689,
-  "close": true
+  "close": false
 }

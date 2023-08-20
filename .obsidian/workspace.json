@@ -11,12 +11,8 @@
             "id": "995dcd0fc11123a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Party/Resources/Loot/Flail of Withering Shadows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "a32defd282459336"
           }
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Resources/Loot/Flail of Withering Shadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Resources/Loot/Flail of Withering Shadows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Party/Resources/Loot/Flail of Withering Shadows.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -193,8 +185,8 @@
   },
   "active": "995dcd0fc11123a5",
   "lastOpenFiles": [
-    "The Party/Resources/Loot/Mithril Chainshirt.md",
     "The Party/Resources/Loot/Flail of Withering Shadows.md",
+    "The Party/Resources/Loot/Mithril Chainshirt.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Party/Resources/Loot/Bloodstone.md",
     "The Xorn.md",
