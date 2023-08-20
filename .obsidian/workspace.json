@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "553e6073564bc2a9"
+            }
           },
           {
             "id": "8b1b0975fa759176",
@@ -26,11 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "Kadahn Crusaders.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "306bea7fe489f4ae"
           }
         ],
         "currentTab": 1
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guilds/Scarlet Rose.md",
+                "file": "Kadahn Crusaders.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,12 +125,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792616,
+                  "scale": 0.3628873693012139,
                   "close": true
                 }
               }
             },
-            "group": "553e6073564bc2a9"
+            "group": "306bea7fe489f4ae"
           }
         ]
       }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "Kadahn Crusaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "Kadahn Crusaders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md"
+                "file": "Kadahn Crusaders.md"
               }
             }
           }
@@ -274,14 +274,14 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "8b1b0975fa759176",
+  "active": "176505d4a34527b8",
   "lastOpenFiles": [
+    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Raven Tail.md",
     "Guilds/Scarlet Rose.md",
     "Places/The Gates.md",
     "Quests/The Xorn.md",
     "The Party/The Party.md",
-    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Quests/Quests.md",
     "Trenmere.md",

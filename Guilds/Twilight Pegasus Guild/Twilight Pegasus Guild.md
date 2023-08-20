@@ -6,7 +6,7 @@ Secretaries:
 Potions/Alchemist:
 [Hans](Hans.md)
 
-The Twilight Pegasus Guild based in [Sandhall](Sandhall), but are also responsible for [Kadahn](Kadahn.md) are interested in treasure hunting. They are not averse to grave robbing.
+The Twilight Pegasus Guild based in [Sandhall](Sandhall), but are also responsible for [Kadahn](Kadahn.md). Focussed on artefacts and magical items. Their expeditions are usually centred on exploring ancient ruins of civilisations long past looking for the relics of history, or delving into forgotten caves in the search for treasure. Signet ring
 
 Has some link to [[Trenmere]]
 
