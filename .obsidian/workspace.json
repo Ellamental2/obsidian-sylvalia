@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b06b0a7f45cab3a",
+        "id": "4d4a5fa53c91a9dd",
         "type": "tabs",
         "children": [
           {
-            "id": "2555e9f008fbde68",
+            "id": "da45f7f6300133ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,7 +17,50 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "553e6073564bc2a9"
+          }
+        ]
+      },
+      {
+        "id": "4e3a3a26999b5e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176505d4a34527b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "The Party/The Party.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "553e6073564bc2a9"
           }
         ]
       }
@@ -77,8 +120,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +203,7 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "2555e9f008fbde68",
+  "active": "176505d4a34527b8",
   "lastOpenFiles": [
     "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
