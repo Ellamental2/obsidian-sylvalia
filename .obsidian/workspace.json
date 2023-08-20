@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "Doran.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "Doran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kadahn Crusaders.md",
+                "file": "Doran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kadahn Crusaders.md"
+                "file": "Doran.md"
               }
             }
           }
@@ -276,8 +276,10 @@
   },
   "active": "e152c093c26c6a02",
   "lastOpenFiles": [
-    "Quests/The Xorn.md",
     "Kadahn Crusaders.md",
+    "Doran.md",
+    "Doran the Barbarian.md",
+    "Quests/The Xorn.md",
     "Places/Kadahn/Kadahn.md",
     "The Party/Terayl.md",
     "The Party/The Party.md",
@@ -303,8 +305,6 @@
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dukes Organisation/Maggie.md",
     "The Party/Resources/Guild Healing Potions.md",
-    "The Party/Resources/Party-Resources.md",
-    "Dukes Organisation/Scarface.md",
     "The Party/Resources",
     "MISC",
     "images/Embers.png",
