@@ -1,1 +1,1 @@
-A barbarian i
+A barbarian in the [[Kadahn Crusaders]]
