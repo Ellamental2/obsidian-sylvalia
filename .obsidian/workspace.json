@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/Terayl.md",
+                "file": "Places/Kadahn/Kadahn.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/Terayl.md",
+                "file": "Places/Kadahn/Kadahn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Terayl.md",
+                "file": "Places/Kadahn/Kadahn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Terayl.md",
+                "file": "Places/Kadahn/Kadahn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Terayl.md"
+                "file": "Places/Kadahn/Kadahn.md"
               }
             }
           }
@@ -263,6 +263,7 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "The Party/Terayl.md",
     "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People",
@@ -274,7 +275,6 @@
     "Quests/Riley's Operation.md",
     "Quests/Quests.md",
     "Quests",
-    "The Party/Terayl.md",
     "The Party/Pyra.md",
     "The Party/Nem.md",
     "The Party/Embers.md",
