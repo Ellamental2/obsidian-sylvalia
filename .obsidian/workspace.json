@@ -11,8 +11,12 @@
             "id": "da45f7f6300133ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Party/Terayl.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "553e6073564bc2a9"
           }
@@ -28,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "The Party/Terayl.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party/Terayl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party/Terayl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +236,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party/Terayl.md"
+              }
             }
           }
         ]
@@ -253,7 +261,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "176505d4a34527b8",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
     "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
