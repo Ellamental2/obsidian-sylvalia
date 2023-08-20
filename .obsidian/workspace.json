@@ -30,7 +30,7 @@
               "type": "localgraph",
               "state": {
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -40,7 +40,64 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:Dead",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    },
+                    {
+                      "query": "path:\"The Party/Resources\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7302994
+                      }
+                    },
+                    {
+                      "query": "path:\"The Party\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1692694
+                      }
+                    },
+                    {
+                      "query": "tag:Guildleader",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9448492
+                      }
+                    },
+                    {
+                      "query": "tag:faction",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    },
+                    {
+                      "query": "tag:secret",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "tag: CurrentQuest",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
+                    },
+                    {
+                      "query": "path:\"Quests\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11621088
+                      }
+                    }
+                  ],
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": -2.2,
@@ -52,7 +109,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5087618855792592,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -182,7 +239,7 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "d0d6f3926f21d91e",
+  "active": "414a195a3ee6d657",
   "lastOpenFiles": [
     "People",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
