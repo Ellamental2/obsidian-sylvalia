@@ -112,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012132,
+                  "scale": 0.508761885579261,
                   "close": true
                 }
               }
@@ -261,7 +261,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "176505d4a34527b8",
   "lastOpenFiles": [
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "The Party/The Party.md",
