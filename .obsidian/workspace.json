@@ -13,27 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/The Xorn.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "553e6073564bc2a9"
-          },
-          {
-            "id": "30c160f9f3576369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/The Xorn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4e3a3a26999b5e6d",
@@ -45,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quests/The Xorn.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792602,
+                  "scale": 0.7132754626224442,
                   "close": true
                 }
               }
@@ -210,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/The Xorn.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/The Xorn.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/The Xorn.md"
+                "file": "Dukes Organisation/Duke's Organisation.md"
               }
             }
           }
@@ -274,12 +261,12 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "d0d6f3926f21d91e",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "Twain.md",
+    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Quests/The Xorn.md",
     "Dosier on the Twilight Pegasus Guild.md",
-    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+    "Twain.md",
     "Quests/Quests.md",
     "The Party/The Party.md",
     "Kadahn Crusaders.md",
