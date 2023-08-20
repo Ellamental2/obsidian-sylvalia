@@ -11,4 +11,5 @@ When we arrived in Kadahn, the [[Kadahn Crusaders]] appeared apparently wanting 
 
 During the break in the fighting [[Pyra]] stole some leather scraps, and Bishop broke into town hall and stole a key to the records room, and a [[Dosier on the Twilight Pegasus Guild]]
 
-We noticed that the Xorn was popping up and down in the same place keeping an eye on us. So we moved the cage to that spot
+We noticed that the Xorn was popping up and down in the same place keeping an eye on us. So we moved the cage to that spot and captured us.
+we headed north east thinking that would be the fastest way back
