@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Slim.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dukes Organisation/Slim.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Slim.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Slim.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Slim.md"
+                "file": "Dukes Organisation/Duke's Organisation.md"
               }
             }
           }
@@ -263,6 +263,7 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Dukes Organisation/Slim.md",
     "Vampire.md",
     "Dosier on the Twilight Pegasus Guild.md",
     "Places/Kadahn/Kadahn.md",
@@ -272,7 +273,6 @@
     "Guilds/Scarlet Rose.md",
     "The Party/Bishop.md",
     "The Party/Embers.md",
-    "Dukes Organisation/Slim.md",
     "Guilds/Raven Tail.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Places/The Gates.md",
