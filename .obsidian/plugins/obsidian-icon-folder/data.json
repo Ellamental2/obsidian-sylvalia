@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasExclamation",
       "LiSword",
       "RiCompassFill",
       "FasShirt",
-      "IbCircle",
-      "FasStamp"
+      "IbCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "The Party/Resources/Loot/Bloodstone.md": "IbCircle",
   "The Party/Resources/Loot/Mithril Chainshirt.md": "FasShirt",
   "The Party/Resources/Loot/Mysterious Compass.md": "RiCompassFill",
-  "The Party/Resources/Loot/Flail of Withering Shadows.md": "LiSword"
+  "The Party/Resources/Loot/Flail of Withering Shadows.md": "LiSword",
+  "Quests": "FasExclamation"
 }
