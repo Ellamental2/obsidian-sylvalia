@@ -1,4 +1,4 @@
-Criminal operation working out of both [Sandhall](Sandhall) and [Kadahn](Kadahn.md) working behind the Cobbled Hobbler in [Sandhall](Sandhall) behind a painting of a fire. The name chang ![[Duke's Fire.png]]
+Criminal operation working out of both [Sandhall](Sandhall) and [Kadahn](Kadahn.md) working behind the Cobbled Hobbler in [Sandhall](Sandhall) behind a painting of a fire. The name changes to "Hobbled Cobbler" When Duke is available. ![[Duke's Fire.png]]
 
 known members:
 [Duke](Duke.md)
