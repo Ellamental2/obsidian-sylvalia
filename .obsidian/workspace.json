@@ -4,6 +4,20 @@
     "type": "split",
     "children": [
       {
+        "id": "e70a3cf5b605624c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995dcd0fc11123a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "b33b2118bfa822da",
         "type": "tabs",
         "children": [
@@ -30,17 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "995dcd0fc11123a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
