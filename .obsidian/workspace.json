@@ -16,33 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d398aeb60dfe6310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07681e51af8fd1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dukes Organisation/Coots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "82c8fb66d537e1e0",
@@ -54,7 +29,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dukes Organisation/Coots.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Coots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Coots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dukes Organisation/Coots.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -213,9 +183,11 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "b07681e51af8fd1c",
+  "active": "a082dea730bd6a87",
   "lastOpenFiles": [
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+    "Riley.md",
+    "Dukes Organisation/Coots.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Quests/The Xorn.md",
     "The Party/Bishop.md",
@@ -241,8 +213,6 @@
     "The Party/Resources/Party-Resources.md",
     "Dukes Organisation/Scarface.md",
     "Dukes Organisation/Duke's Organisation.md",
-    "Dukes Organisation/Coots.md",
-    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "The Party/Resources",
     "MISC",
     "images/Embers.png",
