@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbTreeMapUp",
       "FasPerson",
       "FasExclamation",
       "LiSword",
-      "RiCompassFill",
-      "FasShirt"
+      "RiCompassFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "The Party/Resources/Loot/Mysterious Compass.md": "RiCompassFill",
   "The Party/Resources/Loot/Flail of Withering Shadows.md": "LiSword",
   "Quests": "FasExclamation",
-  "People/Riley.md": "FasPerson"
+  "People/Riley.md": "FasPerson",
+  "The Party/The Party.md": "IbTreeMapUp"
 }

@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e70a3cf5b605624c",
+        "id": "6b06b0a7f45cab3a",
         "type": "tabs",
         "children": [
           {
-            "id": "a082dea730bd6a87",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "bba370de2ffe71ba",
+            "id": "2555e9f008fbde68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,105 +16,6 @@
                 "file": "The Party/The Party.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "82c8fb66d537e1e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "414a195a3ee6d657",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "The Party/The Party.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:Dead",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:\"The Party/Resources\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7302994
-                      }
-                    },
-                    {
-                      "query": "path:\"The Party\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1692694
-                      }
-                    },
-                    {
-                      "query": "tag:Guildleader",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9448492
-                      }
-                    },
-                    {
-                      "query": "tag:faction",
-                      "color": {
-                        "a": 1,
-                        "rgb": 12091111
-                      }
-                    },
-                    {
-                      "query": "tag:secret",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14720594
-                      }
-                    },
-                    {
-                      "query": "tag: CurrentQuest",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16776960
-                      }
-                    },
-                    {
-                      "query": "path:\"Quests\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2.2,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792592,
-                  "close": false
-                }
               }
             }
           }
@@ -172,6 +63,18 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "944cc53839781c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Party/The Party.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -258,10 +161,10 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "bba370de2ffe71ba",
+  "active": "2555e9f008fbde68",
   "lastOpenFiles": [
-    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "The Party/The Party.md",
+    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People",
     "People/Riley.md",
     "Dukes Organisation/Coots.md",
