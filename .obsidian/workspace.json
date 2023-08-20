@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Xorn.md",
+                "file": "Quests/The Xorn.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "a32defd282459336"
+          },
+          {
+            "id": "a082dea730bd6a87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "82c8fb66d537e1e0",
@@ -32,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Xorn.md",
+                "file": "Quests/The Xorn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -128,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Xorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Xorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Xorn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,8 +197,11 @@
       "cmdr:Obsidian Git: Commit all changes with specific message": false
     }
   },
-  "active": "d0d6f3926f21d91e",
+  "active": "e111f422e3aa60a6",
   "lastOpenFiles": [
+    "Quests/The Xorn.md",
+    "Quests/Riley's Operation.md",
+    "Quests/Quests.md",
     "Quests",
     "The Party/The Party.md",
     "The Party/Terayl.md",
@@ -204,12 +213,9 @@
     "The Party/Resources/Loot/Mithril Chainshirt.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Party/Resources/Loot/Bloodstone.md",
-    "The Xorn.md",
     "The Party/Resources/Loot",
     "Places/Kadahn/Zazzy.md",
     "Places/Kadahn/Kadahn.md",
-    "Quests.md",
-    "Riley's Operation.md",
     "Dukes Organisation/Duke.md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dukes Organisation/Maggie.md",
@@ -234,7 +240,6 @@
     "Untitled.canvas",
     "Guilds/Twilight Pegasus Guild",
     "Guilds/Sabretooth's",
-    "Guilds",
-    "The Party"
+    "Guilds"
   ]
 }

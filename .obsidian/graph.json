@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "tag: quests",
+      "query": "path:\"Quests\"",
       "color": {
         "a": 1,
         "rgb": 5419488
