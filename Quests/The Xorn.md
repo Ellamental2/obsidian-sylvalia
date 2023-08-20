@@ -7,5 +7,4 @@ it has since been terrorising [[Kadahn]]
 - [[Duke]] wants the creature captured and head to the north east gate of [[Kadahn]]. He will pay us 100 gold, and allow [[Bishop]] to kill [[Scarface]] in return.
 - The [[Sabretooth's Guild]] want us to capture The Xorn and bring it to them in exchange for reputation for [[Nem]] and [[Pyra]] and information on dragons. They wish to study it.
 
-
-When we arrived in Kadahn, the [[Kadahn Crusaders]] appeared apparently wanting to kill The Xorn. during the fight the Crusaders were hit by a fireball aim
+When we arrived in Kadahn, the [[Kadahn Crusaders]] appeared apparently wanting to kill The Xorn. during the fight the Crusaders were hit by a fireball aimed at The Xorn, am
