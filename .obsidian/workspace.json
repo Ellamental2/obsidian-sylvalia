@@ -13,39 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/The Xorn.md",
+                "file": "Kadahn Crusaders.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "553e6073564bc2a9"
-          },
-          {
-            "id": "e152c093c26c6a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doran.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08bcca6d4d644ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kadahn Crusaders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4e3a3a26999b5e6d",
@@ -57,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quests/The Xorn.md",
+                "file": "Kadahn Crusaders.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,9 +102,9 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -2,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -137,7 +112,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121207,
+                  "scale": 0.7132754626224441,
                   "close": true
                 }
               }
@@ -206,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "58f5c1be44b33910",
@@ -286,11 +262,11 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "08bcca6d4d644ade",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "Doran.md",
     "Quests/The Xorn.md",
     "Kadahn Crusaders.md",
+    "Doran.md",
     "Doran the Barbarian.md",
     "Places/Kadahn/Kadahn.md",
     "The Party/Terayl.md",
