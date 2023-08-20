@@ -6,7 +6,7 @@
       {
         "id": "4d4a5fa53c91a9dd",
         "type": "tabs",
-        "dimension": 64.65736040609137,
+        "dimension": 54.18781725888325,
         "children": [
           {
             "id": "da45f7f6300133ef",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dosier on the Twilight Pegasus Guild.md",
+                "file": "Dukes Organisation/Slim.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "4e3a3a26999b5e6d",
         "type": "tabs",
-        "dimension": 35.34263959390863,
+        "dimension": 45.81218274111675,
         "children": [
           {
             "id": "176505d4a34527b8",
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dosier on the Twilight Pegasus Guild.md",
+                "file": "Dukes Organisation/Slim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dosier on the Twilight Pegasus Guild.md",
+                "file": "Dukes Organisation/Slim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dosier on the Twilight Pegasus Guild.md",
+                "file": "Dukes Organisation/Slim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dosier on the Twilight Pegasus Guild.md"
+                "file": "Dukes Organisation/Slim.md"
               }
             }
           }
@@ -263,12 +263,13 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Vampire.md",
+    "Dosier on the Twilight Pegasus Guild.md",
     "Places/Kadahn/Kadahn.md",
     "Quests/The Xorn.md",
     "Kadahn Crusaders.md",
     "Alena.md",
     "Guilds/Scarlet Rose.md",
-    "Vampire.md",
     "The Party/Bishop.md",
     "The Party/Embers.md",
     "Dukes Organisation/Slim.md",
@@ -280,7 +281,6 @@
     "Quests/Quests.md",
     "Trenmere.md",
     "Dukes Organisation/Duke's Organisation.md",
-    "Dosier on the Twilight Pegasus Guild.md",
     "Twain.md",
     "Doran.md",
     "Doran the Barbarian.md",
