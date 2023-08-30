@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Quests/Quests.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dukes Organisation/Duke's Organisation.md",
+                    "file": "Quests/Quests.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -136,7 +136,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dukes Organisation/Duke's Organisation.md",
+                    "file": "Quests/Quests.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md"
+                "file": "Quests/Quests.md"
               }
             }
           }
@@ -311,8 +311,10 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "e198ba1fb5b172c6",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "The Party/The Party.md",
+    "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Slim.md",
     "Vampire.md",
     "Dosier on the Twilight Pegasus Guild.md",
@@ -326,11 +328,9 @@
     "Guilds/Raven Tail.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Places/The Gates.md",
-    "The Party/The Party.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Quests/Quests.md",
     "Trenmere.md",
-    "Dukes Organisation/Duke's Organisation.md",
     "Twain.md",
     "Doran.md",
     "Doran the Barbarian.md",
