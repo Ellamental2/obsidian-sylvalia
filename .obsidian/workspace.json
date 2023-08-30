@@ -18,108 +18,158 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "ec06cb57a75ccec9"
           }
         ]
       },
       {
-        "id": "4e3a3a26999b5e6d",
-        "type": "tabs",
+        "id": "a5392967d8d93b66",
+        "type": "split",
         "dimension": 45.81218274111675,
         "children": [
           {
-            "id": "176505d4a34527b8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:Dead",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:\"The Party/Resources\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7302994
-                      }
-                    },
-                    {
-                      "query": "path:\"The Party\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1692697
-                      }
-                    },
-                    {
-                      "query": "tag:Guildleader",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    },
-                    {
-                      "query": "tag:faction",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "tag: secret",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "tag: CurrentQuest",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    },
-                    {
-                      "query": "path:\"Quests\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11621088
-                      }
+            "id": "4e3a3a26999b5e6d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "176505d4a34527b8",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Dukes Organisation/Duke's Organisation.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:Dead",
+                          "color": {
+                            "a": 1,
+                            "rgb": 0
+                          }
+                        },
+                        {
+                          "query": "path:\"The Party/Resources\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 7302994
+                          }
+                        },
+                        {
+                          "query": "path:\"The Party\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1692697
+                          }
+                        },
+                        {
+                          "query": "tag:Guildleader",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        },
+                        {
+                          "query": "tag:faction",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431473
+                          }
+                        },
+                        {
+                          "query": "tag: secret",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5419488
+                          }
+                        },
+                        {
+                          "query": "tag: CurrentQuest",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5395168
+                          }
+                        },
+                        {
+                          "query": "path:\"Quests\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11621088
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -2,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792625,
+                      "close": true
                     }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224473,
-                  "close": true
+                  }
                 }
               }
-            }
+            ]
+          },
+          {
+            "id": "6c9af2f699eb27f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e198ba1fb5b172c6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Dukes Organisation/Duke's Organisation.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "ec06cb57a75ccec9"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -261,7 +311,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "176505d4a34527b8",
+  "active": "e198ba1fb5b172c6",
   "lastOpenFiles": [
     "Dukes Organisation/Slim.md",
     "Vampire.md",
