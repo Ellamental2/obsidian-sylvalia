@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Dosier on the Twilight Pegasus Guild.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Dosier on the Twilight Pegasus Guild.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Dosier on the Twilight Pegasus Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Dosier on the Twilight Pegasus Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Quests.md"
+                "file": "Dosier on the Twilight Pegasus Guild.md"
               }
             }
           }
@@ -206,19 +206,19 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "e198ba1fb5b172c6",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Quests/The Xorn.md",
+    "Quests/Quests.md",
     "MISC/Currency.md",
     "Dukes Organisation/Scarface.md",
     "Dukes Organisation/Duke.md",
-    "Quests/Quests.md",
     "The Party/The Party.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Slim.md",
     "Vampire.md",
     "Dosier on the Twilight Pegasus Guild.md",
     "Places/Kadahn/Kadahn.md",
-    "Quests/The Xorn.md",
     "Kadahn Crusaders.md",
     "Alena.md",
     "Guilds/Scarlet Rose.md",
