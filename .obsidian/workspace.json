@@ -24,152 +24,47 @@
         ]
       },
       {
-        "id": "a5392967d8d93b66",
-        "type": "split",
+        "id": "6c9af2f699eb27f4",
+        "type": "tabs",
         "dimension": 45.81218274111675,
         "children": [
           {
-            "id": "4e3a3a26999b5e6d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "176505d4a34527b8",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Quests/Quests.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "tag:Dead",
-                          "color": {
-                            "a": 1,
-                            "rgb": 0
-                          }
-                        },
-                        {
-                          "query": "path:\"The Party/Resources\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 7302994
-                          }
-                        },
-                        {
-                          "query": "path:\"The Party\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 1692697
-                          }
-                        },
-                        {
-                          "query": "tag:Guildleader",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5431378
-                          }
-                        },
-                        {
-                          "query": "tag:faction",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5431473
-                          }
-                        },
-                        {
-                          "query": "tag: secret",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5419488
-                          }
-                        },
-                        {
-                          "query": "tag: CurrentQuest",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5395168
-                          }
-                        },
-                        {
-                          "query": "path:\"Quests\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11621088
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -2,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.5087618855792625,
-                      "close": true
-                    }
-                  }
+            "id": "e198ba1fb5b172c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Quests/Quests.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
                 }
               }
-            ]
-          },
-          {
-            "id": "6c9af2f699eb27f4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e198ba1fb5b172c6",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Quests/Quests.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.5087618855792589,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "ec06cb57a75ccec9"
-              }
-            ]
+            },
+            "group": "ec06cb57a75ccec9"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,8 +206,12 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "e198ba1fb5b172c6",
   "lastOpenFiles": [
+    "MISC/Currency.md",
+    "Dukes Organisation/Scarface.md",
+    "Dukes Organisation/Duke.md",
+    "Quests/Quests.md",
     "The Party/The Party.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Slim.md",
@@ -329,7 +228,6 @@
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Places/The Gates.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
-    "Quests/Quests.md",
     "Trenmere.md",
     "Twain.md",
     "Doran.md",
@@ -337,10 +235,7 @@
     "The Party/Terayl.md",
     "People",
     "People/Riley.md",
-    "Dukes Organisation/Coots.md",
-    "Quests/Riley's Operation.md",
     "Quests",
-    "The Party/Pyra.md",
     "The Party/Resources/Loot",
     "The Party/Resources",
     "MISC",
