@@ -6,7 +6,7 @@
       {
         "id": "4d4a5fa53c91a9dd",
         "type": "tabs",
-        "dimension": 54.18781725888325,
+        "dimension": 36.29441624365482,
         "children": [
           {
             "id": "da45f7f6300133ef",
@@ -26,7 +26,7 @@
       {
         "id": "6c9af2f699eb27f4",
         "type": "tabs",
-        "dimension": 45.81218274111675,
+        "dimension": 63.70558375634518,
         "children": [
           {
             "id": "e198ba1fb5b172c6",
@@ -63,8 +63,17 @@
               }
             },
             "group": "ec06cb57a75ccec9"
+          },
+          {
+            "id": "01683a4cd8df8a0b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ice Strykewyrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ice Strykewyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ice Strykewyrm.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,10 +211,11 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "01683a4cd8df8a0b",
   "lastOpenFiles": [
-    "The Party/Resources/Loot/Mysterious Compass.md",
+    "Twain.md",
     "Ice Strykewyrm.md",
+    "The Party/Resources/Loot/Mysterious Compass.md",
     "Quests/Quests.md",
     "Quests/The Xorn.md",
     "The Party/The Party.md",
@@ -234,7 +240,6 @@
     "The Party/Embers.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Trenmere.md",
-    "Twain.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",

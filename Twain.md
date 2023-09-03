@@ -1,1 +1,1 @@
-A mage under the service of the [[Raven Guild]]. seems to be on [Duke's](Duke's Organisation) Payroll. 
+A mage under the service of the [[Raven Tail]]. seems to be on [Duke's](Duke's Organisation) Payroll. 
