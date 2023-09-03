@@ -5,3 +5,4 @@ The party has used gates to the following cities:
 [Sandhall](Sandhall)
 [Kirkstead](Kirkstead)
 
+Other portals are available for:

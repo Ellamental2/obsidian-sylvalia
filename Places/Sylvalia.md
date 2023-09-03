@@ -19,6 +19,8 @@
 [[Eraz]]
 [[Eredon]]
 [[Rampart De Lort]]
+[[Plateau Des Vents]]
+[[Forets Sauvages]]
 [[Mt. Eros]]
 
 April 2, 2023 - Worzyy
