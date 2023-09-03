@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guilds/Raven Tail.md",
+                "file": "Places/Sylvalia.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guilds/Raven Tail.md",
+                "file": "Places/Sylvalia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guilds/Raven Tail.md",
+                "file": "Places/Sylvalia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guilds/Raven Tail.md",
+                "file": "Places/Sylvalia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guilds/Raven Tail.md"
+                "file": "Places/Sylvalia.md"
               }
             }
           }
@@ -208,6 +208,9 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Pasted image 20230903195308.png",
+    "Guilds/Scarlet Rose.md",
+    "Guilds/Raven Tail.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Dosier on the Twilight Pegasus Guild.md",
     "Quests/The Xorn.md",
@@ -222,10 +225,8 @@
     "Places/Kadahn/Kadahn.md",
     "Kadahn Crusaders.md",
     "Alena.md",
-    "Guilds/Scarlet Rose.md",
     "The Party/Bishop.md",
     "The Party/Embers.md",
-    "Guilds/Raven Tail.md",
     "Places/The Gates.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Trenmere.md",
@@ -234,7 +235,6 @@
     "Doran the Barbarian.md",
     "The Party/Terayl.md",
     "People",
-    "People/Riley.md",
     "Quests",
     "The Party/Resources/Loot",
     "The Party/Resources",
