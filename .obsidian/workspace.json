@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Ice Strykewyrm.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Ice Strykewyrm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Ice Strykewyrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Ice Strykewyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Quests.md"
+                "file": "Ice Strykewyrm.md"
               }
             }
           }
@@ -208,6 +208,10 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "The Party/Resources/Loot/Mysterious Compass.md",
+    "Ice Strykewyrm.md",
+    "Quests/Quests.md",
+    "Quests/The Xorn.md",
     "The Party/The Party.md",
     "Places/Sylvalia.md",
     "Liurnia.md",
@@ -217,8 +221,6 @@
     "Guilds/Raven Tail.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Dosier on the Twilight Pegasus Guild.md",
-    "Quests/The Xorn.md",
-    "Quests/Quests.md",
     "MISC/Currency.md",
     "Dukes Organisation/Scarface.md",
     "Dukes Organisation/Duke.md",
@@ -233,8 +235,6 @@
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Trenmere.md",
     "Twain.md",
-    "Doran.md",
-    "Doran the Barbarian.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",
