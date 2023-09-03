@@ -7,6 +7,18 @@
 [[Liurnia]]
 [[Darmin]]
 [[Dewhurst]]
+[[Kadahn]]
+[[Sandhall]]
+[[Oxgrave]]
+[[Kirkstead]]
+[[Kiros]]
+[[Lathwen]]
+[[Kara]]
+[[Linia]]
+[[Meronon]]
+[[Eraz]]
+[[Eredon]]
+[[Rampart De Lort]]
 [[Mt. Eros]]
 
 April 2, 2023 - Worzyy
