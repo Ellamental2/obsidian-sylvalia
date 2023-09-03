@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/The Gates.md",
+                "file": "Liurnia.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Places/The Gates.md",
+                "file": "Liurnia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/The Gates.md",
+                "file": "Liurnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/The Gates.md",
+                "file": "Liurnia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/The Gates.md"
+                "file": "Liurnia.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
     "Places/Sylvalia.md",
+    "Liurnia.md",
+    "Places/The Gates.md",
     "Pasted image 20230903195308.png",
     "Guilds/Scarlet Rose.md",
     "Guilds/Raven Tail.md",
@@ -228,13 +230,11 @@
     "Alena.md",
     "The Party/Bishop.md",
     "The Party/Embers.md",
-    "Places/The Gates.md",
     "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
     "Trenmere.md",
     "Twain.md",
     "Doran.md",
     "Doran the Barbarian.md",
-    "The Party/Terayl.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",
