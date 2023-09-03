@@ -6,7 +6,7 @@
       {
         "id": "4d4a5fa53c91a9dd",
         "type": "tabs",
-        "dimension": 36.29441624365482,
+        "dimension": 50.95177664974619,
         "children": [
           {
             "id": "da45f7f6300133ef",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Gravek.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "6c9af2f699eb27f4",
         "type": "tabs",
-        "dimension": 63.70558375634518,
+        "dimension": 49.04822335025381,
         "children": [
           {
             "id": "e198ba1fb5b172c6",
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Gravek.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224431,
+                  "scale": 1.0000000000000022,
                   "close": true
                 }
               }
@@ -65,15 +65,14 @@
             "group": "ec06cb57a75ccec9"
           },
           {
-            "id": "01683a4cd8df8a0b",
+            "id": "915c5bb4fa043c9b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gravek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gravek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gravek.md"
+              }
             }
           }
         ]
@@ -211,10 +214,17 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "01683a4cd8df8a0b",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "Twain.md",
+    "Guilds/Sabretooth's/Edward.md",
+    "Gravek.md",
+    "Guilds/Sabretooth's/Denzel.md",
+    "The Party/Nem.md",
+    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "Ice Strykewyrm.md",
+    "Dragons.md",
+    "The Party/Pyra.md",
+    "Twain.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "Quests/Quests.md",
     "Quests/The Xorn.md",
@@ -233,13 +243,6 @@
     "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Slim.md",
     "Vampire.md",
-    "Places/Kadahn/Kadahn.md",
-    "Kadahn Crusaders.md",
-    "Alena.md",
-    "The Party/Bishop.md",
-    "The Party/Embers.md",
-    "Guilds/Twilight Pegasus Guild/Horbit Hasbin.md",
-    "Trenmere.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",
