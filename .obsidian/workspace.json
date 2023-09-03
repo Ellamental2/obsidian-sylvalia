@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/Resources/Guild Healing Potions.md",
+                "file": "Places/Sylvalia.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/Resources/Guild Healing Potions.md",
+                "file": "Places/Sylvalia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -48,7 +48,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Resources/Guild Healing Potions.md",
+                "file": "Places/Sylvalia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Resources/Guild Healing Potions.md",
+                "file": "Places/Sylvalia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Resources/Guild Healing Potions.md"
+                "file": "Places/Sylvalia.md"
               }
             }
           }
@@ -216,6 +216,9 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Liurnia.md",
+    "Ice Strykewyrm.md",
+    "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Loot/Bloodstone.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Party/Resources/Loot/Flail of Withering Shadows.md",
@@ -224,7 +227,6 @@
     "Guilds/Sabretooth's/Denzel.md",
     "The Party/Nem.md",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
-    "Ice Strykewyrm.md",
     "Dragons.md",
     "The Party/Pyra.md",
     "Twain.md",
@@ -232,7 +234,6 @@
     "Quests/The Xorn.md",
     "The Party/The Party.md",
     "Places/Sylvalia.md",
-    "Liurnia.md",
     "Places/The Gates.md",
     "Pasted image 20230903195308.png",
     "Guilds/Scarlet Rose.md",
@@ -242,7 +243,6 @@
     "MISC/Currency.md",
     "Dukes Organisation/Scarface.md",
     "Dukes Organisation/Duke.md",
-    "Dukes Organisation/Duke's Organisation.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",

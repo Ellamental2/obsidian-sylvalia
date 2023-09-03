@@ -4,6 +4,7 @@
 
 ![[Pasted image 20230903195308.png]]
 
+##### Locations on the Map
 [[Liurnia]]
 [[Darmin]]
 [[Dewhurst]]
