@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Quests/Quests.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Quests/Quests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792594,
+                  "scale": 0.7132754626224431,
                   "close": true
                 }
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Sylvalia.md"
+                "file": "Quests/Quests.md"
               }
             }
           }
@@ -208,8 +208,9 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "Liurnia.md",
+    "The Party/The Party.md",
     "Places/Sylvalia.md",
+    "Liurnia.md",
     "Places/The Gates.md",
     "Pasted image 20230903195308.png",
     "Guilds/Scarlet Rose.md",
@@ -221,7 +222,6 @@
     "MISC/Currency.md",
     "Dukes Organisation/Scarface.md",
     "Dukes Organisation/Duke.md",
-    "The Party/The Party.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Slim.md",
     "Vampire.md",

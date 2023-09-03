@@ -1,7 +1,8 @@
 #quests 
 
 Current:
-
+[[Mysterious Compass]]
+[[Ice Strykewyrm]]
 
 Completed:
 [[The Standing Stone]]
