@@ -20,8 +20,19 @@
               }
             },
             "group": "ec06cb57a75ccec9"
+          },
+          {
+            "id": "564ef4fbf3637f05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -214,7 +225,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "564ef4fbf3637f05",
   "lastOpenFiles": [
     "Liurnia.md",
     "Ice Strykewyrm.md",
