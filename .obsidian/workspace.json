@@ -6,7 +6,7 @@
       {
         "id": "4d4a5fa53c91a9dd",
         "type": "tabs",
-        "dimension": 56.15482233502538,
+        "dimension": 44.47969543147208,
         "children": [
           {
             "id": "da45f7f6300133ef",
@@ -38,7 +38,7 @@
       {
         "id": "6c9af2f699eb27f4",
         "type": "tabs",
-        "dimension": 43.84517766497462,
+        "dimension": 55.52030456852792,
         "children": [
           {
             "id": "e198ba1fb5b172c6",
@@ -70,7 +70,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224441,
-                  "close": true
+                  "close": false
                 }
               }
             },
@@ -226,7 +226,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "e198ba1fb5b172c6",
   "lastOpenFiles": [
     "Unknown Ancient Language.md",
     "Places/Sylvalia (South East).md",
