@@ -1,3 +1,3 @@
-Port town in [[Sylvalia]] locally known as ‘The Heart’s Anchor’.
+Port town in [[Sylvalia (South East)]] locally known as ‘The Heart’s Anchor’.
 Tourist trap.
 

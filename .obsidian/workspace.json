@@ -6,7 +6,7 @@
       {
         "id": "4d4a5fa53c91a9dd",
         "type": "tabs",
-        "dimension": 37.62690355329949,
+        "dimension": 56.15482233502538,
         "children": [
           {
             "id": "da45f7f6300133ef",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Places/Sylvalia (South East).md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "6c9af2f699eb27f4",
         "type": "tabs",
-        "dimension": 62.3730964467005,
+        "dimension": 43.84517766497462,
         "children": [
           {
             "id": "e198ba1fb5b172c6",
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Places/Sylvalia (South East).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Places/Sylvalia (South East).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Places/Sylvalia (South East).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ice Strykewyrm.md"
+                "file": "Places/Sylvalia (South East).md"
               }
             }
           }
@@ -229,8 +229,8 @@
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
     "Unknown Ancient Language.md",
+    "Places/Sylvalia (South East).md",
     "Ice Strykewyrm.md",
-    "Places/Sylvalia.md",
     "Liurnia.md",
     "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Loot/Bloodstone.md",

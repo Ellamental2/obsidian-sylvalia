@@ -40,7 +40,6 @@
   "Places/Kadahn/Kadahn.md": "TiMapPin",
   "Trenmere.md": "FasQuestion",
   "The Party/Resources": "FasCoins",
-  "Places/Sylvalia.md": "TiMapPin",
   "The Party": "LiPartyPopper",
   "Guilds": "FasStamp",
   "The Party/Resources/Loot/Bloodstone.md": "IbCircle",
@@ -49,5 +48,6 @@
   "The Party/Resources/Loot/Flail of Withering Shadows.md": "LiSword",
   "Quests": "FasExclamation",
   "People/Riley.md": "FasPerson",
-  "The Party/The Party.md": "IbTreeMapUp"
+  "The Party/The Party.md": "IbTreeMapUp",
+  "Places/Sylvalia (South East).md": "TiMapPin"
 }
