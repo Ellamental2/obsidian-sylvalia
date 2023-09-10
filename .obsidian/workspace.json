@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Giant's Causeway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Giant's Causeway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Giant's Causeway.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -226,10 +223,10 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "915c5bb4fa043c9b",
   "lastOpenFiles": [
-    "Liurnia.md",
     "Giant's Causeway.md",
+    "Liurnia.md",
     "Vermi Flora.md",
     "Places/Sylvalia (South East).md",
     "Unknown Ancient Language.md",

@@ -1,1 +1,1 @@
-links [[Sylvalia (Sou
+links [[Sylvalia (South East)]] to [[Sylvalia (South West)]] has some kind of magical effect to make the time crossing the causeway to pass instantly or so we can't remember the time on the causeway or something like that.
