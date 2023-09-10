@@ -14,25 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Ice Strykewyrm.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "ec06cb57a75ccec9"
-          },
-          {
-            "id": "564ef4fbf3637f05",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -45,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Ice Strykewyrm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Ice Strykewyrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Sylvalia.md",
+                "file": "Ice Strykewyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Sylvalia.md"
+                "file": "Ice Strykewyrm.md"
               }
             }
           }
@@ -225,8 +214,9 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "564ef4fbf3637f05",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Places/Sylvalia.md",
     "Liurnia.md",
     "Ice Strykewyrm.md",
     "The Party/Resources/Guild Healing Potions.md",
@@ -244,7 +234,6 @@
     "Quests/Quests.md",
     "Quests/The Xorn.md",
     "The Party/The Party.md",
-    "Places/Sylvalia.md",
     "Places/The Gates.md",
     "Pasted image 20230903195308.png",
     "Guilds/Scarlet Rose.md",
