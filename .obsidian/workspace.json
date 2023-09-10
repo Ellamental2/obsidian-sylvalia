@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "Unknown Ancient Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "Unknown Ancient Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Icy Demon Thing.md"
+                "file": "Unknown Ancient Language.md"
               }
             }
           }
@@ -218,11 +219,11 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "40b40ef3cea39c11",
   "lastOpenFiles": [
+    "Icy Demon Thing.md",
     "Ice Strykewyrm.md",
     "Unknown Ancient Language.md",
-    "Icy Demon Thing.md",
     "Giant's Causeway.md",
     "ancient.md",
     "Liurnia.md",
