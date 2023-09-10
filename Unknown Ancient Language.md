@@ -1,3 +1,4 @@
 Durr = Death
 Icia = ? (icey?)
-Lif = Life/Guardian/Spirit
+
+![[Pasted image 20230910222822.png]]Lif = Life/Guardian/Spirit
