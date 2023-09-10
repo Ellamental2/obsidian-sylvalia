@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giant's Causeway.md",
+                "file": "Ice Strykewyrm.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Giant's Causeway.md",
+                "file": "Ice Strykewyrm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -75,17 +75,8 @@
               }
             },
             "group": "ec06cb57a75ccec9"
-          },
-          {
-            "id": "915c5bb4fa043c9b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ice Strykewyrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ice Strykewyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ice Strykewyrm.md"
+              }
             }
           }
         ]
@@ -223,14 +218,15 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "915c5bb4fa043c9b",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
     "Giant's Causeway.md",
+    "ancient.md",
+    "Ice Strykewyrm.md",
     "Liurnia.md",
     "Vermi Flora.md",
     "Places/Sylvalia (South East).md",
     "Unknown Ancient Language.md",
-    "Ice Strykewyrm.md",
     "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Loot/Bloodstone.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
@@ -251,7 +247,6 @@
     "Guilds/Scarlet Rose.md",
     "Guilds/Raven Tail.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
-    "Dosier on the Twilight Pegasus Guild.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",

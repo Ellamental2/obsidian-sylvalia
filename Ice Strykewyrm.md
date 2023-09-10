@@ -7,6 +7,6 @@ It attacked the party.
 passed through not dealing damage but reducing max HP
 
 after the initial strike we all heard a voice saying
-"Lucky intruders, tread no further, les you embrace the frosty arms of oblivion. Head this warning or meet your icia durr."
+"Lucky intruders, tread no further, les you embrace the frosty arms of oblivion. Head this warning or meet your [icia durr]([[ancient Language]])."
 
-naturall.y the party ignored this and carried on.
+naturally the party ignored this and carried on.
