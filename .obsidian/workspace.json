@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Icy Demon Thing.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Icy Demon Thing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Icy Demon Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ice Strykewyrm.md",
+                "file": "Icy Demon Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ice Strykewyrm.md"
+                "file": "Icy Demon Thing.md"
               }
             }
           }
@@ -220,13 +220,14 @@
   },
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "Ice Strykewyrm.md",
+    "Unknown Ancient Language.md",
+    "Icy Demon Thing.md",
     "Giant's Causeway.md",
     "ancient.md",
-    "Ice Strykewyrm.md",
     "Liurnia.md",
     "Vermi Flora.md",
     "Places/Sylvalia (South East).md",
-    "Unknown Ancient Language.md",
     "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Loot/Bloodstone.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
@@ -246,7 +247,6 @@
     "Pasted image 20230903195308.png",
     "Guilds/Scarlet Rose.md",
     "Guilds/Raven Tail.md",
-    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",
