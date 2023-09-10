@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vermi Flora.md",
+                "file": "Giant's Causeway.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vermi Flora.md",
+                "file": "Giant's Causeway.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vermi Flora.md",
+                "file": "Giant's Causeway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vermi Flora.md",
+                "file": "Giant's Causeway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vermi Flora.md"
+                "file": "Giant's Causeway.md"
               }
             }
           }
@@ -229,6 +229,7 @@
   "active": "da45f7f6300133ef",
   "lastOpenFiles": [
     "Liurnia.md",
+    "Giant's Causeway.md",
     "Vermi Flora.md",
     "Places/Sylvalia (South East).md",
     "Unknown Ancient Language.md",
@@ -254,7 +255,6 @@
     "Guilds/Raven Tail.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Dosier on the Twilight Pegasus Guild.md",
-    "MISC/Currency.md",
     "People",
     "Quests",
     "The Party/Resources/Loot",
