@@ -134,8 +134,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb30805256145e8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph-presets-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,13 +207,21 @@
                 "file": "Icy Demon Thing.md"
               }
             }
+          },
+          {
+            "id": "b6718c05bb019e79",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +236,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "40b40ef3cea39c11",
+  "active": "b6718c05bb019e79",
   "lastOpenFiles": [
     "Unknown Ancient Language.md",
     "Pasted image 20230910222822.png",
