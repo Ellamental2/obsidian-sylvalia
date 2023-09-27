@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "The Party/Bishop.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,14 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "Quests/Quests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -47,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "The Party/Bishop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -70,7 +69,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224441,
+                  "scale": 0.5087618855792602,
                   "close": true
                 }
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "The Party/Bishop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Icy Demon Thing.md",
+                "file": "The Party/Bishop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Icy Demon Thing.md"
+                "file": "The Party/Bishop.md"
               }
             }
           },
@@ -236,12 +235,14 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "b6718c05bb019e79",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
+    "The Party/The Party.md",
+    "Ice Strykewyrm.md",
+    "Icy Demon Thing.md",
+    "Quests/Quests.md",
     "Unknown Ancient Language.md",
     "Pasted image 20230910222822.png",
-    "Icy Demon Thing.md",
-    "Ice Strykewyrm.md",
     "Giant's Causeway.md",
     "ancient.md",
     "Liurnia.md",
@@ -259,9 +260,7 @@
     "Dragons.md",
     "The Party/Pyra.md",
     "Twain.md",
-    "Quests/Quests.md",
     "Quests/The Xorn.md",
-    "The Party/The Party.md",
     "Places/The Gates.md",
     "Pasted image 20230903195308.png",
     "Guilds/Scarlet Rose.md",
