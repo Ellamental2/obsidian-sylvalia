@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4d4a5fa53c91a9dd",
+        "id": "6c9af2f699eb27f4",
         "type": "tabs",
-        "dimension": 44.47969543147208,
         "children": [
           {
             "id": "da45f7f6300133ef",
@@ -14,51 +13,7 @@
             "state": {
               "type": "graph",
               "state": {}
-            },
-            "group": "ec06cb57a75ccec9"
-          }
-        ]
-      },
-      {
-        "id": "6c9af2f699eb27f4",
-        "type": "tabs",
-        "dimension": 55.52030456852792,
-        "children": [
-          {
-            "id": "e198ba1fb5b172c6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Giant's Causeway.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792608,
-                  "close": true
-                }
-              }
-            },
-            "group": "ec06cb57a75ccec9"
+            }
           }
         ]
       }
