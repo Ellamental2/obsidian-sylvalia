@@ -11,8 +11,12 @@
             "id": "da45f7f6300133ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ice Strykewyrm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compass",
+                "query": "lang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +184,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "55b3fbae12b74938",
   "lastOpenFiles": [
     "Giant's Causeway.md",
     "ancient.md",
