@@ -12,41 +12,12 @@
             "id": "da45f7f6300133ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Giant's Causeway.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "ec06cb57a75ccec9"
-          },
-          {
-            "id": "d50fd783b5b236b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rodrigo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0fce30be923e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Sinkhole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -82,7 +53,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224449,
+                  "scale": 0.5087618855792608,
                   "close": true
                 }
               }
@@ -175,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rodrigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rodrigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rodrigo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,11 +224,12 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "d50fd783b5b236b2",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "The Sinkhole.md",
-    "Rodrigo.md",
     "Giant's Causeway.md",
+    "ancient.md",
+    "Rodrigo.md",
+    "The Sinkhole.md",
     "The Party/Bishop.md",
     "Ice Strykewyrm.md",
     "Quests/Quests.md",
@@ -269,7 +237,6 @@
     "Icy Demon Thing.md",
     "Unknown Ancient Language.md",
     "Pasted image 20230910222822.png",
-    "ancient.md",
     "Liurnia.md",
     "Vermi Flora.md",
     "Places/Sylvalia (South East).md",
