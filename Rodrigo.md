@@ -1,0 +1,1 @@
+[[The Party]] were told by the tavern keeper of [[The Sinkhole]] that Rodrigo would be able to give them work.
