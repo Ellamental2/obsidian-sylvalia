@@ -22,6 +22,16 @@
             "group": "ec06cb57a75ccec9"
           },
           {
+            "id": "ac458ec784d9c163",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "40b40ef3cea39c11",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -214,6 +225,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "76653c7a54e9b340",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -235,7 +256,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "da45f7f6300133ef",
+  "active": "ac458ec784d9c163",
   "lastOpenFiles": [
     "The Party/The Party.md",
     "Ice Strykewyrm.md",
