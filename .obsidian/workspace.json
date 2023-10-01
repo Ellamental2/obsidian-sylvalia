@@ -14,37 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Giant's Causeway.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "ec06cb57a75ccec9"
-          },
-          {
-            "id": "ac458ec784d9c163",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "40b40ef3cea39c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Quests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c9af2f699eb27f4",
@@ -57,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Giant's Causeway.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Giant's Causeway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Bishop.md",
+                "file": "Giant's Causeway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Bishop.md"
+                "file": "Giant's Causeway.md"
               }
             }
           },
@@ -256,15 +232,16 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "ac458ec784d9c163",
+  "active": "da45f7f6300133ef",
   "lastOpenFiles": [
-    "The Party/The Party.md",
+    "The Party/Bishop.md",
+    "Giant's Causeway.md",
     "Ice Strykewyrm.md",
-    "Icy Demon Thing.md",
     "Quests/Quests.md",
+    "The Party/The Party.md",
+    "Icy Demon Thing.md",
     "Unknown Ancient Language.md",
     "Pasted image 20230910222822.png",
-    "Giant's Causeway.md",
     "ancient.md",
     "Liurnia.md",
     "Vermi Flora.md",
