@@ -31,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Sinkhole.md",
+                    "file": "Omnidroid Golem.md",
                     "mode": "source",
                     "source": false
                   }
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Sinkhole.md",
+                    "file": "Omnidroid Golem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Sinkhole.md",
+                "file": "Omnidroid Golem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Sinkhole.md",
+                "file": "Omnidroid Golem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Sinkhole.md"
+                "file": "Omnidroid Golem.md"
               }
             }
           },
@@ -252,9 +252,10 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "7279ba78ef079456",
+  "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
     "The Sinkhole.md",
+    "Omnidroid Golem.md",
     "Twain.md",
     "Kadahn Crusaders.md",
     "Ice Strykewyrm.md",
@@ -280,7 +281,6 @@
     "Guilds/Sabretooth's/Denzel.md",
     "The Party/Nem.md",
     "Guilds/Sabretooth's/Sabretooth's Guild.md",
-    "Dragons.md",
     "Pasted image 20230903195308.png",
     "People",
     "Quests",
