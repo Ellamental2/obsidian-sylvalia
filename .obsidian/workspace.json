@@ -11,8 +11,12 @@
             "id": "55712bd243b4b220",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Icy Demon Thing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Icy Demon Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Icy Demon Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Icy Demon Thing.md"
+              }
             }
           },
           {
@@ -179,7 +187,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "b6718c05bb019e79",
+  "active": "55712bd243b4b220",
   "lastOpenFiles": [
     "Unknown Ancient Language.md",
     "Ice Strykewyrm.md",
