@@ -18,22 +18,72 @@
         ]
       },
       {
-        "id": "7bf8860963e6fe78",
-        "type": "tabs",
+        "id": "e2684c91499cc2d1",
+        "type": "split",
         "children": [
           {
-            "id": "6b2c141aea2e5c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Sinkhole.md",
-                "mode": "source",
-                "source": false
+            "id": "7bf8860963e6fe78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b2c141aea2e5c91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Sinkhole.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "afc0f8bbad2a49aa"
               }
-            }
+            ]
+          },
+          {
+            "id": "bb398a6460ca65c2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7279ba78ef079456",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "The Sinkhole.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "afc0f8bbad2a49aa"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -119,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Sinkhole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Sinkhole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Sinkhole.md"
+              }
             }
           },
           {
@@ -182,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +252,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "55712bd243b4b220",
+  "active": "7279ba78ef079456",
   "lastOpenFiles": [
     "The Sinkhole.md",
     "Twain.md",
