@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/Nem.md",
+                "file": "The Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/Nem.md",
+                "file": "The Party/The Party.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/Nem.md",
+                "file": "The Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/Nem.md",
+                "file": "The Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/Nem.md"
+                "file": "The Party/The Party.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "People/Nem.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Sandhall.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
@@ -270,7 +271,6 @@
     "Icy Demon Thing.md",
     "Unknown Ancient Language.md",
     "[[Unknown.md",
-    "Giant's Causeway.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",

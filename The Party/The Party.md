@@ -4,11 +4,11 @@ After [[The Xorn]], they returned to Sandhall, and their signets rings showing t
 
 Ex-Members:
 [Zevuv(Dead)](Zevuv(Dead).md)
+[Nem](Nem.md)
 
 Current Members
 [Bishop](Bishop.md)
 [Pyra](Pyra.md)
-[Nem](Nem.md)
 [Embers](Embers.md)
 [Terayl](Terayl)
 [[Nigel]]
