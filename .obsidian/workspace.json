@@ -73,7 +73,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.713275462622442,
                       "close": false
                     }
                   }
@@ -252,7 +252,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "6b2c141aea2e5c91",
+  "active": "7279ba78ef079456",
   "lastOpenFiles": [
     "The Sinkhole.md",
     "Omnidroid Golem.md",
