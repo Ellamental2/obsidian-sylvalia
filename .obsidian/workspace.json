@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "03e1f86226b6e7e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55712bd243b4b220",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "e2684c91499cc2d1",
         "type": "split",
         "children": [
@@ -31,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Omnidroid Golem.md",
+                    "file": "Vampire.md",
                     "mode": "source",
                     "source": false
                   }
@@ -50,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Omnidroid Golem.md",
+                    "file": "Vampire.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -73,7 +59,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.713275462622442,
+                      "scale": 0.7132754626224423,
                       "close": false
                     }
                   }
@@ -169,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnidroid Golem.md",
+                "file": "Vampire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnidroid Golem.md",
+                "file": "Vampire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnidroid Golem.md"
+                "file": "Vampire.md"
               }
             }
           },
@@ -252,10 +238,17 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "7279ba78ef079456",
+  "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
-    "The Sinkhole.md",
+    "The Party/Bishop.md",
+    "The Party/The Party.md",
+    "The Party/Terayl.md",
     "Omnidroid Golem.md",
+    "Vampire.md",
+    "The Party/Embers.md",
+    "The Party/Resources/Guild Healing Potions.md",
+    "Places/Sylvalia (South East).md",
+    "The Sinkhole.md",
     "Twain.md",
     "Kadahn Crusaders.md",
     "Ice Strykewyrm.md",
@@ -265,22 +258,15 @@
     "Giant's Causeway.md",
     "ancient.md",
     "Rodrigo.md",
-    "The Party/Bishop.md",
     "Quests/Quests.md",
-    "The Party/The Party.md",
     "Pasted image 20230910222822.png",
     "Liurnia.md",
     "Vermi Flora.md",
-    "Places/Sylvalia (South East).md",
-    "The Party/Resources/Guild Healing Potions.md",
     "The Party/Resources/Loot/Bloodstone.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Party/Resources/Loot/Flail of Withering Shadows.md",
     "Gravek.md",
     "Guilds/Sabretooth's/Edward.md",
-    "Guilds/Sabretooth's/Denzel.md",
-    "The Party/Nem.md",
-    "Guilds/Sabretooth's/Sabretooth's Guild.md",
     "Pasted image 20230903195308.png",
     "People",
     "Quests",
