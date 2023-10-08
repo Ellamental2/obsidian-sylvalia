@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "The Party/Nem.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "The Party/Nem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "The Party/Nem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "file": "The Party/Nem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md"
+                "file": "The Party/Nem.md"
               }
             }
           },
@@ -243,8 +243,11 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "7279ba78ef079456",
+  "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+    "Sandhall.md",
+    "The Party/Resources/Loot/Mysterious Compass.md",
     "The Kindred.md",
     "Liurnia.md",
     "Anvil.md",
@@ -268,9 +271,6 @@
     "Unknown Ancient Language.md",
     "[[Unknown.md",
     "Giant's Causeway.md",
-    "ancient.md",
-    "Rodrigo.md",
-    "Quests/Quests.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
