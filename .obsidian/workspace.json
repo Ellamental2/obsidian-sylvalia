@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Kindred.md",
+                    "file": "Anvil.md",
                     "mode": "source",
                     "source": false
                   }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kindred.md",
+                "file": "Anvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Kindred.md",
+                "file": "Anvil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Kindred.md"
+                "file": "Anvil.md"
               }
             }
           },
@@ -253,12 +253,14 @@
   },
   "active": "06a332dbdf687742",
   "lastOpenFiles": [
+    "The Sinkhole.md",
+    "Anvil.md",
+    "The Party/Bishop.md",
+    "The Kindred.md",
     "Sylvalia North.md",
     "Pic Des Derniers Hommes.md",
-    "The Kindred.md",
     "Dukes Organisation/Slim.md",
     "Vampire.md",
-    "The Party/Bishop.md",
     "Guilds/Scarlet Rose.md",
     "The Party/The Party.md",
     "The Party/Terayl.md",
@@ -266,7 +268,6 @@
     "The Party/Embers.md",
     "The Party/Resources/Guild Healing Potions.md",
     "Places/Sylvalia (South East).md",
-    "The Sinkhole.md",
     "Twain.md",
     "Kadahn Crusaders.md",
     "Ice Strykewyrm.md",
@@ -279,7 +280,6 @@
     "Quests/Quests.md",
     "Pasted image 20230910222822.png",
     "Liurnia.md",
-    "Vermi Flora.md",
     "Pasted image 20230903195308.png",
     "People",
     "Quests",

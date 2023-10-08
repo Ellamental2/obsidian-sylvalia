@@ -6,5 +6,5 @@ it is in the center of a region which is self perpetuating. (pac-man rules) if w
 
 takes about 2 hours to walk across the region.
 
-within the region there was a hole with Will-o'-wisps and an [[Omnidroid Golem]]
+within the region there was a hole with Will-o'-wisps and an [[Omnidroid Golem]] and a huge [[Anvil]].
 
