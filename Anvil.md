@@ -1,1 +1,1 @@
-Giant anvil in [[TGuarded by the [[Omnidroid Golem]], and the only think we have found that is immune to it's attacks.
+Giant anvil in [[The Sinkhole]] region, Guarded by the [[Omnidroid Golem]], and the only think we have found that is immune to it's attacks.

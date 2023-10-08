@@ -4,85 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "e2684c91499cc2d1",
-        "type": "split",
+        "id": "7bf8860963e6fe78",
+        "type": "tabs",
         "children": [
           {
-            "id": "7bf8860963e6fe78",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6b2c141aea2e5c91",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Kindred.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "afc0f8bbad2a49aa"
-              },
-              {
-                "id": "06a332dbdf687742",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Anvil.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "6b2c141aea2e5c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            },
+            "group": "afc0f8bbad2a49aa"
           },
           {
-            "id": "bb398a6460ca65c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7279ba78ef079456",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "The Kindred.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7132754626224432,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "afc0f8bbad2a49aa"
+            "id": "06a332dbdf687742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liurnia.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "e6a9f9b8bd46ebc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7279ba78ef079456",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792598,
+                  "close": true
+                }
+              }
+            },
+            "group": "afc0f8bbad2a49aa"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anvil.md",
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anvil.md",
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anvil.md"
+                "file": "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md"
               }
             }
           },
@@ -251,12 +243,13 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "06a332dbdf687742",
+  "active": "7279ba78ef079456",
   "lastOpenFiles": [
-    "The Sinkhole.md",
-    "Anvil.md",
-    "The Party/Bishop.md",
     "The Kindred.md",
+    "Liurnia.md",
+    "Anvil.md",
+    "The Sinkhole.md",
+    "The Party/Bishop.md",
     "Sylvalia North.md",
     "Pic Des Derniers Hommes.md",
     "Dukes Organisation/Slim.md",
@@ -279,7 +272,6 @@
     "Rodrigo.md",
     "Quests/Quests.md",
     "Pasted image 20230910222822.png",
-    "Liurnia.md",
     "Pasted image 20230903195308.png",
     "People",
     "Quests",
