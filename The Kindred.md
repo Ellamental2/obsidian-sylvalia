@@ -1,0 +1,1 @@
+The Kindred are a faction of vampires based in [[Pic Des Derniers Hommes]]

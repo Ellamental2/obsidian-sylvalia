@@ -17,14 +17,27 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Vampire.md",
+                    "file": "The Kindred.md",
                     "mode": "source",
                     "source": false
                   }
                 },
                 "group": "afc0f8bbad2a49aa"
+              },
+              {
+                "id": "06a332dbdf687742",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pic Des Derniers Hommes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "bb398a6460ca65c2",
@@ -36,7 +49,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Vampire.md",
+                    "file": "The Kindred.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -59,7 +72,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7132754626224423,
+                      "scale": 0.7132754626224432,
                       "close": false
                     }
                   }
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vampire.md",
+                "file": "Pic Des Derniers Hommes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vampire.md",
+                "file": "Pic Des Derniers Hommes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vampire.md"
+                "file": "Pic Des Derniers Hommes.md"
               }
             }
           },
@@ -238,13 +251,17 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "6b2c141aea2e5c91",
+  "active": "06a332dbdf687742",
   "lastOpenFiles": [
+    "The Kindred.md",
+    "Pic Des Derniers Hommes.md",
+    "Dukes Organisation/Slim.md",
+    "Vampire.md",
     "The Party/Bishop.md",
+    "Guilds/Scarlet Rose.md",
     "The Party/The Party.md",
     "The Party/Terayl.md",
     "Omnidroid Golem.md",
-    "Vampire.md",
     "The Party/Embers.md",
     "The Party/Resources/Guild Healing Potions.md",
     "Places/Sylvalia (South East).md",
@@ -263,10 +280,6 @@
     "Liurnia.md",
     "Vermi Flora.md",
     "The Party/Resources/Loot/Bloodstone.md",
-    "The Party/Resources/Loot/Mysterious Compass.md",
-    "The Party/Resources/Loot/Flail of Withering Shadows.md",
-    "Gravek.md",
-    "Guilds/Sabretooth's/Edward.md",
     "Pasted image 20230903195308.png",
     "People",
     "Quests",
