@@ -1,1 +1,1 @@
-a mountain in Sylvalia 
+a mountain in [[Sylvalia North]]

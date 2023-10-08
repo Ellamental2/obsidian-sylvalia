@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pic Des Derniers Hommes.md",
+                    "file": "The Kindred.md",
                     "mode": "source",
                     "source": false
                   }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pic Des Derniers Hommes.md",
+                "file": "The Kindred.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pic Des Derniers Hommes.md",
+                "file": "The Kindred.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pic Des Derniers Hommes.md"
+                "file": "The Kindred.md"
               }
             }
           },
@@ -253,8 +253,9 @@
   },
   "active": "06a332dbdf687742",
   "lastOpenFiles": [
-    "The Kindred.md",
+    "Sylvalia North.md",
     "Pic Des Derniers Hommes.md",
+    "The Kindred.md",
     "Dukes Organisation/Slim.md",
     "Vampire.md",
     "The Party/Bishop.md",
@@ -279,7 +280,6 @@
     "Pasted image 20230910222822.png",
     "Liurnia.md",
     "Vermi Flora.md",
-    "The Party/Resources/Loot/Bloodstone.md",
     "Pasted image 20230903195308.png",
     "People",
     "Quests",
