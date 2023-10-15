@@ -4,13 +4,13 @@
     "presets": {}
   },
   "preferences": {
-    "sortBy": "presetNameAsc",
+    "enablePresetCommands": false,
     "presetsFolder": "graph presets",
+    "sortBy": "presetNameAsc",
     "markdownPresets": {
       "inlineSearchQuery": false,
       "inlineColorGroups": false
     },
-    "enablePresetCommands": false,
     "restoreZoom": true,
     "restoreCollapsedState": false,
     "globalFilter": "",

@@ -141,7 +141,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -244,8 +245,11 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "6b2c141aea2e5c91",
+  "active": "7279ba78ef079456",
   "lastOpenFiles": [
+    "graph presets/link.md",
+    "Twain.md",
+    "graph presets",
     "Guilds/Raven Tail.md",
     "Guilds/Scarlet Rose.md",
     "Dukes Organisation/Duke's Organisation.md",
@@ -270,8 +274,6 @@
     "The Kindred.md",
     "Liurnia.md",
     "Anvil.md",
-    "The Party/Bishop.md",
-    "Pic Des Derniers Hommes.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
@@ -289,7 +291,6 @@
     "Places/Kadahn",
     "Places",
     "Untitled.canvas",
-    "Guilds/Twilight Pegasus Guild",
-    "Guilds/Sabretooth's"
+    "Guilds/Twilight Pegasus Guild"
   ]
 }
