@@ -68,7 +68,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 1.0000000000000009,
                   "close": true
                 }
               }
@@ -244,8 +244,9 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "6b2c141aea2e5c91",
+  "active": "7279ba78ef079456",
   "lastOpenFiles": [
+    "Pasted image 20231015223447.png",
     "The Map.md",
     "Twilight Pegasus Guild Store House.md",
     "Quests/Quests.md",
@@ -272,7 +273,6 @@
     "ancient.md",
     "Trenmere.md",
     "Dosier on the Twilight Pegasus Guild.md",
-    "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
