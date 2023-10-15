@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unknown Ancient Language.md",
+                "file": "The Sinkhole.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unknown Ancient Language.md",
+                "file": "The Sinkhole.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unknown Ancient Language.md",
+                "file": "The Sinkhole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unknown Ancient Language.md",
+                "file": "The Sinkhole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unknown Ancient Language.md"
+                "file": "The Sinkhole.md"
               }
             }
           },
@@ -246,6 +246,7 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Unknown Ancient Language.md",
     "The Map.md",
     "ancient.md",
     "Quests/Quests.md",
@@ -271,7 +272,6 @@
     "The Party/Terayl.md",
     "Omnidroid Golem.md",
     "The Party/Embers.md",
-    "The Party/Resources/Guild Healing Potions.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
