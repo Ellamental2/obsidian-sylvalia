@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "Twain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "Twain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "Twain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "Twain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Maggie.md"
+                "file": "Twain.md"
               }
             }
           },
@@ -246,6 +246,10 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Guilds/Raven Tail.md",
+    "Guilds/Scarlet Rose.md",
+    "Dukes Organisation/Duke's Organisation.md",
+    "Dukes Organisation/Maggie.md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "The Party/The Party.md",
     "Unknown Ancient Language.md",
@@ -258,7 +262,6 @@
     "ancient.md",
     "Quests/Quests.md",
     "Trenmere.md",
-    "Dukes Organisation/Maggie.md",
     "Dosier on the Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People/Nem.md",
@@ -269,9 +272,6 @@
     "Anvil.md",
     "The Party/Bishop.md",
     "Pic Des Derniers Hommes.md",
-    "Dukes Organisation/Slim.md",
-    "Guilds/Scarlet Rose.md",
-    "The Party/Terayl.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
