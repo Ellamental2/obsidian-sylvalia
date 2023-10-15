@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Duke.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Duke.md"
+                "file": "Dukes Organisation/Maggie.md"
               }
             }
           },
@@ -246,21 +246,21 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Guilds/Twilight Pegasus Guild/Hazel.md",
+    "The Party/The Party.md",
+    "Unknown Ancient Language.md",
+    "Dukes Organisation/Duke.md",
     "Tarr.md",
     "Sylvalia North.md",
-    "Dukes Organisation/Duke.md",
     "Vampire.md",
     "The Sinkhole.md",
-    "Unknown Ancient Language.md",
     "The Map.md",
     "ancient.md",
     "Quests/Quests.md",
     "Trenmere.md",
     "Dukes Organisation/Maggie.md",
-    "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dosier on the Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
-    "The Party/The Party.md",
     "People/Nem.md",
     "Sandhall.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
