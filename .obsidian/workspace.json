@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,22 +44,22 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -3,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -67,7 +67,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792598,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/The Party.md",
+                "file": "Dukes Organisation/Maggie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/The Party.md"
+                "file": "Dukes Organisation/Maggie.md"
               }
             }
           },
@@ -245,8 +245,12 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
-    "People/Nem.md",
+    "Guilds/Twilight Pegasus Guild/Hazel.md",
+    "Dosier on the Twilight Pegasus Guild.md",
+    "Trenmere.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
+    "The Party/The Party.md",
+    "People/Nem.md",
     "Sandhall.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Kindred.md",
@@ -259,7 +263,6 @@
     "Dukes Organisation/Slim.md",
     "Vampire.md",
     "Guilds/Scarlet Rose.md",
-    "The Party/The Party.md",
     "The Party/Terayl.md",
     "Omnidroid Golem.md",
     "The Party/Embers.md",
@@ -268,9 +271,6 @@
     "Twain.md",
     "Kadahn Crusaders.md",
     "Ice Strykewyrm.md",
-    "Icy Demon Thing.md",
-    "Unknown Ancient Language.md",
-    "[[Unknown.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
