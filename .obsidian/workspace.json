@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sinkhole.md",
+                "file": "Tarr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Sinkhole.md",
+                "file": "Tarr.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Sinkhole.md",
+                "file": "Tarr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Sinkhole.md",
+                "file": "Tarr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Sinkhole.md"
+                "file": "Tarr.md"
               }
             }
           },
@@ -246,6 +246,11 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Sylvalia North.md",
+    "Tarr.md",
+    "Dukes Organisation/Duke.md",
+    "Vampire.md",
+    "The Sinkhole.md",
     "Unknown Ancient Language.md",
     "The Map.md",
     "ancient.md",
@@ -262,16 +267,11 @@
     "The Kindred.md",
     "Liurnia.md",
     "Anvil.md",
-    "The Sinkhole.md",
     "The Party/Bishop.md",
-    "Sylvalia North.md",
     "Pic Des Derniers Hommes.md",
     "Dukes Organisation/Slim.md",
-    "Vampire.md",
     "Guilds/Scarlet Rose.md",
     "The Party/Terayl.md",
-    "Omnidroid Golem.md",
-    "The Party/Embers.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
