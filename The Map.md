@@ -1,1 +1,1 @@
-[[Duke]] wants us to obtain a map of [
+[[Duke]] wants us to obtain an old map of [[Sandhall]] from The [[Twilight Pegasus Guild]] store house.
