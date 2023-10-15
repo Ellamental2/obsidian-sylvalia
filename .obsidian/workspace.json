@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marvin's Magic Emporium.md",
+                "file": "Dukes Organisation/Fire Paintings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Marvin's Magic Emporium.md",
+                "file": "Dukes Organisation/Fire Paintings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marvin's Magic Emporium.md",
+                "file": "Dukes Organisation/Fire Paintings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marvin's Magic Emporium.md",
+                "file": "Dukes Organisation/Fire Paintings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marvin's Magic Emporium.md"
+                "file": "Dukes Organisation/Fire Paintings.md"
               }
             }
           },
@@ -246,8 +246,9 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
-    "Sandhall.md",
     "Marvin's Magic Emporium.md",
+    "Dukes Organisation/Fire Paintings.md",
+    "Sandhall.md",
     "Twain.md",
     "Untitled.md",
     "graph presets/link.md",
@@ -272,7 +273,6 @@
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People/Nem.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
-    "The Kindred.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
