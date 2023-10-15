@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandhall.md",
+                "file": "Marvin's Magic Emporium.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sandhall.md",
+                "file": "Marvin's Magic Emporium.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandhall.md",
+                "file": "Marvin's Magic Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sandhall.md",
+                "file": "Marvin's Magic Emporium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sandhall.md"
+                "file": "Marvin's Magic Emporium.md"
               }
             }
           },
@@ -246,6 +246,8 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Sandhall.md",
+    "Marvin's Magic Emporium.md",
     "Twain.md",
     "Untitled.md",
     "graph presets/link.md",
@@ -269,10 +271,8 @@
     "Dosier on the Twilight Pegasus Guild.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "People/Nem.md",
-    "Sandhall.md",
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Kindred.md",
-    "Liurnia.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
