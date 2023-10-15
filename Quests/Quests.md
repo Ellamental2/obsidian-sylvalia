@@ -1,7 +1,7 @@
 #quests 
 
 Current:
-[[Mysterious Compass]]
+[[The Map]]
 
 Completed:
 [[The Standing Stone]]
@@ -9,3 +9,4 @@ Completed:
 [[Riley's Operation]]
 [[The Xorn]]
 [[Ice Strykewyrm]]
+[[Mysterious Compass]]

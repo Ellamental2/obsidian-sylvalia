@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "The Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "The Map.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "The Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Maggie.md",
+                "file": "The Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Maggie.md"
+                "file": "The Map.md"
               }
             }
           },
@@ -245,9 +245,12 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Quests/Quests.md",
+    "The Map.md",
+    "Trenmere.md",
+    "Dukes Organisation/Maggie.md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dosier on the Twilight Pegasus Guild.md",
-    "Trenmere.md",
     "Guilds/Twilight Pegasus Guild/Twilight Pegasus Guild.md",
     "The Party/The Party.md",
     "People/Nem.md",
@@ -268,9 +271,6 @@
     "The Party/Embers.md",
     "The Party/Resources/Guild Healing Potions.md",
     "Places/Sylvalia (South East).md",
-    "Twain.md",
-    "Kadahn Crusaders.md",
-    "Ice Strykewyrm.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
