@@ -1,1 +1,1 @@
-ran by a gnome called Marvin and sells magic spells.
+ran by a gnome called Marvin and sells magic spell scrolls.
