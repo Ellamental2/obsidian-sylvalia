@@ -15,6 +15,7 @@
               "state": {
                 "file": "The Map.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             },
@@ -245,8 +246,9 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
-    "Quests/Quests.md",
+    "ancient.md",
     "The Map.md",
+    "Quests/Quests.md",
     "Trenmere.md",
     "Dukes Organisation/Maggie.md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
@@ -270,7 +272,6 @@
     "Omnidroid Golem.md",
     "The Party/Embers.md",
     "The Party/Resources/Guild Healing Potions.md",
-    "Places/Sylvalia (South East).md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
