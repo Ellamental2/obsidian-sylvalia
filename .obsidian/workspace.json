@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twain.md",
+                "file": "Sandhall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Twain.md",
+                "file": "Sandhall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,8 +141,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twain.md",
+                "file": "Sandhall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twain.md",
+                "file": "Sandhall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twain.md"
+                "file": "Sandhall.md"
               }
             }
           },
@@ -245,10 +244,11 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "7279ba78ef079456",
+  "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
-    "graph presets/link.md",
     "Twain.md",
+    "Untitled.md",
+    "graph presets/link.md",
     "graph presets",
     "Guilds/Raven Tail.md",
     "Guilds/Scarlet Rose.md",
@@ -273,7 +273,6 @@
     "The Party/Resources/Loot/Mysterious Compass.md",
     "The Kindred.md",
     "Liurnia.md",
-    "Anvil.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
