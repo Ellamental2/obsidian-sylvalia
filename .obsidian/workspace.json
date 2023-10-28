@@ -74,19 +74,8 @@
               }
             },
             "group": "afc0f8bbad2a49aa"
-          },
-          {
-            "id": "56138a0d87e12b62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,7 +244,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "56138a0d87e12b62",
+  "active": "7279ba78ef079456",
   "lastOpenFiles": [
     "Pasted image 20231015223447.png",
     "The Map.md",
