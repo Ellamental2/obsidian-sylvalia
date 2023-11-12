@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Tarr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Tarr.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Tarr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md",
+                "file": "Tarr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dukes Organisation/Duke's Organisation.md"
+                "file": "Tarr.md"
               }
             }
           },
@@ -244,8 +244,9 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "7279ba78ef079456",
+  "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Dukes Organisation/Duke's Organisation.md",
     "Twilight Pegasus Guild Store House.md",
     "Pasted image 20231015223447.png",
     "The Map.md",
@@ -260,7 +261,6 @@
     "graph presets",
     "Guilds/Raven Tail.md",
     "Guilds/Scarlet Rose.md",
-    "Dukes Organisation/Duke's Organisation.md",
     "Dukes Organisation/Maggie.md",
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "The Party/The Party.md",
