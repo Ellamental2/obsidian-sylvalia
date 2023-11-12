@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarr.md",
+                "file": "Unknown Ancient Language.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tarr.md",
+                "file": "Unknown Ancient Language.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarr.md",
+                "file": "Unknown Ancient Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarr.md",
+                "file": "Unknown Ancient Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarr.md"
+                "file": "Unknown Ancient Language.md"
               }
             }
           },
@@ -246,6 +246,7 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
+    "Tarr.md",
     "Dukes Organisation/Duke's Organisation.md",
     "Twilight Pegasus Guild Store House.md",
     "Pasted image 20231015223447.png",
@@ -266,7 +267,6 @@
     "The Party/The Party.md",
     "Unknown Ancient Language.md",
     "Dukes Organisation/Duke.md",
-    "Tarr.md",
     "Sylvalia North.md",
     "Vampire.md",
     "The Sinkhole.md",
