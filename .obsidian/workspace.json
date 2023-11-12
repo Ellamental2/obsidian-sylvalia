@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twilight Pegasus Guild Store House.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,11 +45,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Twilight Pegasus Guild Store House.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -68,7 +68,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000009,
+                  "scale": 0.7132754626224427,
                   "close": true
                 }
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twilight Pegasus Guild Store House.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twilight Pegasus Guild Store House.md",
+                "file": "Dukes Organisation/Duke's Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twilight Pegasus Guild Store House.md"
+                "file": "Dukes Organisation/Duke's Organisation.md"
               }
             }
           },
@@ -246,9 +246,9 @@
   },
   "active": "7279ba78ef079456",
   "lastOpenFiles": [
+    "Twilight Pegasus Guild Store House.md",
     "Pasted image 20231015223447.png",
     "The Map.md",
-    "Twilight Pegasus Guild Store House.md",
     "Quests/Quests.md",
     "Dukes Organisation/Fire Paintings.md",
     "[[Unknown.md",
