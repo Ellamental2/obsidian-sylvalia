@@ -12,6 +12,8 @@ Current Members
 [Embers](Embers.md)
 [Terayl](Terayl)
 [[Nigel]]
+[[Twain]]
+[[Raynor]]
 
 [[Quests]]
 [Party Resources Here](Party-Resources.md)
