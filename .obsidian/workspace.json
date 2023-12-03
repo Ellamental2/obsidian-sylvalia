@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raynor.md",
+                "file": "The Kindred.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raynor.md",
+                "file": "The Kindred.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raynor.md",
+                "file": "The Kindred.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raynor.md",
+                "file": "The Kindred.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raynor.md"
+                "file": "The Kindred.md"
               }
             }
           },
@@ -246,8 +246,10 @@
   },
   "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
-    "The Party/The Party.md",
+    "Vampire.md",
+    "The Party/Bishop.md",
     "Raynor.md",
+    "The Party/The Party.md",
     "Guilds/Raven Tail.md",
     "Twain.md",
     "Unknown Ancient Language.md",
@@ -269,11 +271,9 @@
     "Guilds/Twilight Pegasus Guild/Hazel.md",
     "Dukes Organisation/Duke.md",
     "Sylvalia North.md",
-    "Vampire.md",
     "The Sinkhole.md",
     "ancient.md",
     "Trenmere.md",
-    "Dosier on the Twilight Pegasus Guild.md",
     "Pasted image 20230910222822.png",
     "Pasted image 20230903195308.png",
     "People",
