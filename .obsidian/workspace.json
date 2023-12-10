@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lang",
+                "query": "tag:#secret",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "6b2c141aea2e5c91",
+  "active": "55b3fbae12b74938",
   "lastOpenFiles": [
     "The Kindred.md",
     "Vampire.md",
