@@ -9,15 +9,6 @@
         "dimension": 80.9010152284264,
         "children": [
           {
-            "id": "6b2c141aea2e5c91",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "afc0f8bbad2a49aa"
-          },
-          {
             "id": "06a332dbdf687742",
             "type": "leaf",
             "state": {
@@ -32,47 +23,71 @@
         ]
       },
       {
-        "id": "e6a9f9b8bd46ebc8",
-        "type": "tabs",
+        "id": "18ea9e092e435e26",
+        "type": "split",
         "dimension": 19.098984771573605,
         "children": [
           {
-            "id": "7279ba78ef079456",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "The Kindred.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224427,
-                  "close": true
-                }
+            "id": "e6a9f9b8bd46ebc8",
+            "type": "tabs",
+            "dimension": 42.74425287356322,
+            "children": [
+              {
+                "id": "7279ba78ef079456",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "The Kindred.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224427,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "afc0f8bbad2a49aa"
               }
-            },
-            "group": "afc0f8bbad2a49aa"
+            ]
+          },
+          {
+            "id": "fe810b1e2f79b1f1",
+            "type": "tabs",
+            "dimension": 57.25574712643679,
+            "children": [
+              {
+                "id": "6b2c141aea2e5c91",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "group": "afc0f8bbad2a49aa"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
