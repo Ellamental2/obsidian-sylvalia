@@ -12,8 +12,12 @@
             "id": "6b2c141aea2e5c91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Party/Resources/Loot/Bloodstone.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "afc0f8bbad2a49aa"
           },
@@ -42,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Kindred.md",
+                "file": "The Party/Resources/Loot/Bloodstone.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party/Resources/Loot/Bloodstone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party/Resources/Loot/Bloodstone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party/Resources/Loot/Bloodstone.md"
+              }
             }
           },
           {
@@ -213,7 +221,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -238,7 +248,7 @@
       "obsidian-graph-presets:Graph Presets": false
     }
   },
-  "active": "55b3fbae12b74938",
+  "active": "6b2c141aea2e5c91",
   "lastOpenFiles": [
     "The Kindred.md",
     "Vampire.md",
